@@ -1,0 +1,203 @@
+# A Tough BE | videos | https://www.youtube.com/watch?v=Kb8s2mJYZh0 | 419s | uploaded 20260204
+[00:01] All right, going into the day, quick
+[00:03] recap. Uh I was pretty bearish, right?
+[00:06] We've had this continuation of nonsense
+[00:08] that's been happening on the higher time
+[00:10] frame, but uh if this is going to be a
+[00:13] market maker sell model, right? Where we
+[00:14] come up here, we build up all this
+[00:16] liquidity, and then we officially run
+[00:17] that liquidity, we could potentially see
+[00:19] these lows get taken. Yesterday
+[00:22] was a 800-point pump, and then today was
+[00:26] a 800-point flush. So, you know, it's
+[00:29] pretty nonsensical the way the markets
+[00:31] are moving, but I am bearish looking at
+[00:33] this chart. So,
+[00:35] market opens, and we don't do a whole
+[00:38] lot of anything, right? We've got
+[00:41] potentially some AMD in here,
+[00:44] accumulation, manipulation, and then
+[00:45] distribution. If that was to show up, I
+[00:47] wasn't interested in it, cuz like I
+[00:49] said, I was looking for shorts, and you
+[00:51] really didn't have any other confluences
+[00:52] to justify a long there.
+[00:54] So, as the day moves on, we start to see
+[00:57] this
+[00:59] flush here. And
+[01:03] what happens is we come down, we sweep
+[01:04] London low, we sweep external liquidity
+[01:06] sitting over here, we put in this SMT,
+[01:09] we're delivering out of a 4-hour,
+[01:11] and
+[01:12] the market starts to reject. So, all my
+[01:14] PO3 traders, this is happening right
+[01:16] around 9:00 a.m., they start going long
+[01:18] targeting London highs.
+[01:21] Let's just change this.
+[01:24] This is my indicator, if you're
+[01:25] interested.
+[01:27] Uh targeting those London highs, right?
+[01:29] We've taken previous day low, we've
+[01:30] taken London low, tons of liquidity
+[01:31] downside, we start rejecting. However,
+[01:34] I do not have enough market structure
+[01:38] to justify a long here, right? What we
+[01:40] want to see is nice, easy market
+[01:43] structure on the way down, so that we
+[01:45] can efficiently run all that liquidity
+[01:49] on the way up, right? Nice and easy
+[01:51] staircase on the way up. What I don't
+[01:53] want to see is a massive flush that
+[01:56] creates a free solo climb of Yosemite,
+[01:59] right? I cannot take my grandmother on
+[02:00] this hike. She will die. Most likely, I
+[02:02] will die, right? This is super
+[02:04] dangerous. So,
+[02:06] market to me still looks like it's going
+[02:08] lower.
+[02:11] So, I wait.
+[02:13] And we got this order block on the
+[02:15] 1-minute that's being respected. We had
+[02:16] a 5-minute fair value gap in here that
+[02:17] was being respected. Lot of reasons not
+[02:19] to be going long.
+[02:21] So, we get our SMT that shows up here.
+[02:24] We're delivering I turned off the FEGs,
+[02:26] but we're delivering out of a 30-minute
+[02:28] fair value gap here. We are in OTE of
+[02:32] this range here, right? So, really nice.
+[02:36] Everything we're looking for in OTE,
+[02:38] delivering out of a higher time frame.
+[02:39] This is a 30.
+[02:43] SMT and then we're waiting for a fair
+[02:45] value gap to get inverted,
+[02:47] which was right in here. We had a
+[02:48] 3-minute and a 4-minute fair value gap
+[02:50] that was sitting in our way.
+[02:52] Inverted that, and then patiently waited
+[02:55] for our change in the state of delivery.
+[02:57] So, we entered the trade, targeting
+[02:59] lower.
+[03:01] We also had this additional confluence
+[03:02] of coming out of these inefficiencies
+[03:05] and still rejecting this order block.
+[03:07] So, really nice reasoning to go lower.
+[03:09] One thing we had against us
+[03:11] is that
+[03:12] this is technically a protected low. We
+[03:14] have an SMT delivering out of
+[03:18] a higher time frame fair value gap. So,
+[03:19] this is a tough target, so I did go
+[03:21] light on size.
+[03:23] Uh entered the trade here, my stop loss
+[03:25] up here.
+[03:26] And once we put in this order block,
+[03:30] right? It's a little baby order block,
+[03:32] but it's still an order block. Oop, save
+[03:34] the surprise for a minute.
+[03:36] I went break even.
+[03:37] Because at this point, if we're putting
+[03:40] in order blocks, we're efficiently
+[03:41] targeting lower, and
+[03:45] What is going on here?
+[03:48] And the market wants to turn around on
+[03:52] me, I don't want to be a part of that.
+[03:53] All right, I don't know why this is
+[03:54] broken, but here we go.
+[03:57] So, we put in this order block here
+[04:00] and I'm comfortable going break even
+[04:01] because I want to This is an indication
+[04:03] that the market is most likely going to
+[04:04] go lower. We have a clear target below
+[04:05] us. Maybe we come back and test this,
+[04:08] but my entry should be safe if the
+[04:10] market If I'm right and the market wants
+[04:12] to keep doing what I want to see it
+[04:13] doing.
+[04:14] Unfortunately,
+[04:15] the president tweets and this happens.
+[04:18] And so, I get knocked out break even.
+[04:20] Which is fine because the only thing
+[04:21] worse than getting knocked out break
+[04:23] even is being 80 points into profit to
+[04:26] then have your initial stop loss get
+[04:28] kicked out. Right? With the conditions
+[04:31] that we were discussing, we were in a
+[04:32] little bit of chop. It wasn't super
+[04:35] super clean of an entry and it wasn't
+[04:36] the best RR to my break even {slash}
+[04:38] TP1.
+[04:39] I wanted to be a little more
+[04:40] conservative, so I went break even.
+[04:42] And
+[04:44] price shot up 100 points, 150 points
+[04:47] almost.
+[04:48] And then yes, eventually did go in my
+[04:50] favor. A lot of the times what happens
+[04:52] with news is the market reacts to it,
+[04:55] but then continues to go and do what it
+[04:57] was going to do anyway, right? And
+[04:58] that's exactly what we saw here.
+[05:00] So,
+[05:02] I went break even a little early because
+[05:03] this order block gave me the reasoning
+[05:04] to do it, right? I didn't just randomly
+[05:06] move my stop up cuz I was scared. We saw
+[05:08] an order block, we saw efficient price,
+[05:10] we had a clear target. There's no reason
+[05:12] for the market to be 10 points within my
+[05:14] TP
+[05:15] to only then reverse against me. If it
+[05:17] does that, it's usually not a good sign.
+[05:19] If it happens organically, news is not
+[05:22] organic. This is just reactionary. So,
+[05:24] this couldn't have been predicted
+[05:26] unfortunately.
+[05:27] And this is what ended up happening. Um
+[05:30] so,
+[05:31] tough break even, then I got off the
+[05:33] screens because this was a lot of work
+[05:35] to take that break even, right? Like,
+[05:37] let's not forget not taking a trade
+[05:39] through all this, not trying to FOMO
+[05:41] into some long here like every IFEG
+[05:43] trader who saw this get inverted and
+[05:46] decided to go long only to get stopped
+[05:48] out, right? Or
+[05:51] every PO3 trader who was waiting for
+[05:53] those London highs who would eventually
+[05:54] gotten stopped out. I patiently waited
+[05:56] through the entire session for this
+[05:58] trade here to show up, right? This is my
+[06:00] model. This is what I was looking for.
+[06:01] And even then, the conditions weren't A
+[06:03] plus, so I went small on size.
+[06:06] Now, if I was to continue trading after
+[06:08] this break even that I earned,
+[06:10] things I'm I'm FOMOing, right? My head
+[06:12] is now in the space of I want to take
+[06:14] another trade.
+[06:15] Right? I was only waiting for A plus
+[06:17] setups at this point. When I continue
+[06:19] trading after getting knocked out break
+[06:21] even, all of a sudden those
+[06:24] B plus setups don't look so bad to me,
+[06:26] right? All of a sudden I can justify B
+[06:28] setup, and I don't want to be in that
+[06:29] mindset. And so, I got to get off the
+[06:32] charts.
+[06:33] In trading,
+[06:35] a break even trade is considered a
+[06:36] winning trade, right? We entered, we
+[06:38] waited, we followed our rules, we
+[06:40] managed the trade appropriately. That is
+[06:41] a win. I will come back tomorrow, and I
+[06:43] will do the same thing. I'm not going to
+[06:45] start risking capital unnecessarily just
+[06:48] so I can take more action.
+[06:49] All right. I took everything live.
+[06:52] Got a link down below if you want to
+[06:53] join us, come say hello. Hope you play
+[06:55] it safe today. I'll see you around.

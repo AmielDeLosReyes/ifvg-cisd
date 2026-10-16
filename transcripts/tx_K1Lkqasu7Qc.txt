@@ -1,0 +1,39 @@
+# I BLEW $15K IN ONE MONTH BECAUSE OF ONE STOP LOSS MISTAKE | shorts | https://www.youtube.com/watch?v=K1Lkqasu7Qc | 82s | uploaded 20260917
+[00:00] I blew $15,000 in one month because I
+[00:02] didn't understand one simple rule about
+[00:04] stop- losses. And once I fixed it, I
+[00:06] went from constantly getting stopped out
+[00:08] to holding winners to target. Here's
+[00:10] what I was doing wrong. I'd see a
+[00:11] liquidity sweep, wait for all my
+[00:13] confirmations, take the trade, but then
+[00:15] I'd place my stop just a few ticks above
+[00:18] the entry because I wanted bigger
+[00:20] position size. Terrible idea. Every time
+[00:22] price would spike through my stop, take
+[00:24] me out, then immediately reverse and hit
+[00:27] my original target without me. The fix
+[00:29] is simple. Your stop goes above the high
+[00:31] that was swept for shorts or below the
+[00:33] low that was swept for longs. Not one
+[00:35] tick above, not where it looks safe,
+[00:38] above the actual sweep. Why? Because
+[00:42] that sweep is the level where
+[00:43] institutions grab liquidity. If price
+[00:46] goes back through it, the whole thesis
+[00:48] is wrong anyway. Now, I size my position
+[00:50] based on the distance of that stop, not
+[00:52] the other way around. This one change
+[00:55] took me from being a break even trader
+[00:56] to becoming consistently profitable.
+[00:59] Look at this trade. Stop above the swept
+[01:01] high. Not my entry. Price spiked against
+[01:04] me, didn't hit my stopped, then dropped
+[01:07] straight to target. If I had placed a
+[01:09] tight stop out of fear, I would have
+[01:11] lost this trade. And I built a guide to
+[01:13] show you exactly where to place stops
+[01:14] every time. Want my stop-loss placement
+[01:16] guide that shows you exactly where to
+[01:18] place your stop on every setup? comment
+[01:20] stop and I'll send it for

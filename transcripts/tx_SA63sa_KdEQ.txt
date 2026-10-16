@@ -1,0 +1,33 @@
+# How I Avoid Fakeouts With One Simple Signal | shorts | https://www.youtube.com/watch?v=SA63sa_KdEQ | 66s | uploaded 20251218
+[00:00] This one [music] trade came down to
+[00:01] spotting SMT divergence before everyone
+[00:03] else. I'm going to break down the entire
+[00:05] setup using the confirmation model so
+[00:07] you can spot it for yourself. It starts
+[00:08] the liquidity sweep at this major high
+[00:10] on NQ confirmation one. I immediately
+[00:13] check ES. It didn't make a new high.
+[00:16] That's SMT divergence. This breakout is
+[00:19] fake. Now I confirm we're delivering
+[00:21] from a higher time frame fair value gap.
+[00:23] Respected confirmation two. Price formed
+[00:26] at fair value gap on the one minute
+[00:28] chart and closed through it.
+[00:30] Confirmation three, we get a change in
+[00:32] the state of delivery. Price closed
+[00:34] below the first series of candles going
+[00:36] into the liquidity sweep. Confirmation
+[00:38] four, that's my entry. Stop above the
+[00:40] SMT high, which is now protected because
+[00:43] we're also tapping into that higher time
+[00:45] frame fair value gap. All four
+[00:46] confirmations plus SMT gave me the
+[00:49] confidence to hold this trade to
+[00:50] sellside liquidity. Watch the entire
+[00:52] trade play out. This is the edge that
+[00:53] turns struggling traders into profitable
+[00:55] ones. And I'm going to show you how to
+[00:57] read SMT exactly [music] like this every
+[00:59] single time. Want my A+ setup rating
+[01:01] guide that breaks down SMT divergence?
+[01:03] comment SMT and I'll DM it at you for

@@ -1,0 +1,42 @@
+# HOW I MADE OVER 70K IN THE LEAP COMPETITION AND THE ONE SIGNAL THAT MADE IT POSSIBLE | shorts | https://www.youtube.com/watch?v=vAQF20H8Nvo | 92s | uploaded 20251206
+[00:00] I'm currently in 91st place out of
+[00:02] 82,000 traders in the LEAP competition,
+[00:04] all because I pay attention to something
+[00:06] that 99% of traders completely ignore,
+[00:09] and it's hiding in plain sight. It's
+[00:11] called SMT divergence, and it tells you
+[00:13] when a breakout is fake before price
+[00:15] even confirms it. Here's how it works.
+[00:17] Most of the time, NQ and ES move
+[00:19] together. When one [music] makes a new
+[00:21] high, so does the other. But when they
+[00:23] don't, that's when the money is made.
+[00:26] Look at this example. We have our
+[00:28] liquidity sweep on NQ at this side. Mark
+[00:31] it. I immediately check ES. It didn't
+[00:33] make a new high. That's SMT divergence.
+[00:37] This tells me the breakout is weak and
+[00:39] likely to reverse. Now I check my other
+[00:41] confirmations. We're delivering from a
+[00:43] higher time frame fair value gap. Check.
+[00:45] I drop to the 1-minute. Do we have a
+[00:47] fair value gap inversion? Check. Then,
+[00:51] change in the state of delivery confirm
+[00:52] structure broke, and now the SMT becomes
+[00:55] a protected high. That's all four
+[00:56] confirmations plus SMT divergence. This
+[01:00] is an A+ rated setup in the confirmation
+[01:01] model. I set my stop loss at the SMT and
+[01:04] target opposing liquidity. This is the
+[01:06] edge that made me over $70,000 in the
+[01:08] LEAP competition in just over 4 weeks.
+[01:11] Watch the full setup. NQ swept with no
+[01:14] ES follow-through. Fair value gap
+[01:16] inverted, SISTI confirmed, clean drop to
+[01:18] sell-side liquidity. SMT was the early
+[01:21] warning, and I'm going to show you
+[01:22] exactly how to spot this every [music]
+[01:24] single time. If you want my complete SMT
+[01:26] divergence breakdown that shows you how
+[01:28] to read this in real time, comment SMT
+[01:30] and I'll DM it to you for free.

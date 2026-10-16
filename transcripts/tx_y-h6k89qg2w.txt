@@ -1,0 +1,55 @@
+# 0.1% TRADER FINALLY MAKES ORDER BLOCKS EASY TO UNDERSTAND | shorts | https://www.youtube.com/watch?v=y-h6k89qg2w | 104s | uploaded 20260416
+[00:00] Order blocks
+[00:02] are theoretical. When we think about
+[00:03] something like SMT, we know that ES,
+[00:06] which is a correlated asset, has swept
+[00:08] this high and NQ has not. You cannot
+[00:10] deny that that has happened. We know
+[00:13] that these 15-minute fair value gaps,
+[00:15] this 15-minute this 1-hour exist.
+[00:17] There's a gap between three candles
+[00:20] that exist on the 15-minute. You cannot
+[00:21] deny that. This is Asia's low based on
+[00:24] when Asia opened and when Asia closed.
+[00:27] This is the low it made. You cannot deny
+[00:28] that.
+[00:29] Order blocks
+[00:31] are theoretical. They are assumptions
+[00:33] based on what institutions might be
+[00:35] doing. The idea behind an order block is
+[00:37] this. Price is moving in a direction
+[00:40] very aggressively and institutions want
+[00:43] to continue moving price in that
+[00:44] direction.
+[00:45] But in order to do so, they need to
+[00:47] generate some liquidity.
+[00:49] And the way they do that is by inducing
+[00:51] sellers, which pushes price down. These
+[00:53] sell orders serve as a liquidity for
+[00:56] them to place buy orders. Right? Because
+[00:58] for someone to sell, someone has to buy.
+[01:01] And what happens is it forms a block of
+[01:03] orders. And when you close back above
+[01:06] this block, it's considered an order
+[01:08] block. Now, oftentimes price will come
+[01:10] back and test it and then reject.
+[01:13] Uh in this instance here, it just we put
+[01:14] it in and then we just kept shooting up.
+[01:17] Right? Um same thing here. This is
+[01:19] actually a better example. Look what
+[01:20] happened here, this order block.
+[01:22] Came back down, tested it,
+[01:24] wicked right out, and then continued on
+[01:25] higher.
+[01:26] But it's theoretical. It's the name for
+[01:28] something that's happening in the
+[01:29] markets
+[01:31] that may or not actually be driven by
+[01:32] institutions.
+[01:33] >> [music]
+[01:34] >> We don't know. That doesn't make them
+[01:35] any less valid. They work all the time,
+[01:37] but they are indeed subjective math.
+[01:39] That's right. And so for that reason, I
+[01:41] put less weight in them in terms of what
+[01:43] we should be looking for.

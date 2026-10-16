@@ -1,0 +1,250 @@
+# 4th loss of the year | videos | https://www.youtube.com/watch?v=iQlCTEGoAvY | 531s | uploaded 20260409
+[00:00] All right, so two trades today a loss
+[00:03] and a break even and honestly it should
+[00:06] have been one win today and I probably
+[00:09] got my own way, right? Like I've had a
+[00:11] really strong run this year. This was
+[00:13] only my fourth loss of the year and you
+[00:17] start to feel a little untouchable and
+[00:19] so sometimes a loss reminds you that no,
+[00:21] nothing changes. You have to show up
+[00:23] every day and follow your rules to the
+[00:25] letter or you're going to wreck yourself
+[00:28] and I didn't quite wreck myself because
+[00:30] I managed my wrist properly, but
+[00:32] today could have been a winning day and
+[00:34] instead it was a losing day. So
+[00:36] let's take a look at what happened. Big
+[00:37] picture we had this big pump coming out
+[00:39] of
+[00:40] the war news yesterday. So we're still
+[00:42] very much in this range. We're
+[00:43] accumulating. We haven't come back to
+[00:46] 50% of this range here and so I can't
+[00:51] justify really going long, right?
+[00:53] Because you want to see a pullback into
+[00:54] equilibrium in order to say all right,
+[00:57] price is pulled back even if we're going
+[00:58] to look here, right? We haven't pulled
+[01:00] back into this range
+[01:02] to say all right, we've come back and
+[01:04] now we want to look to go higher.
+[01:06] At the same time price was so aggressive
+[01:08] that it could just accumulate and then
+[01:10] continue higher. You've got this
+[01:11] liquidity that's been built up over here
+[01:14] on the higher timeframe and so
+[01:16] at the 4-hour the narrative isn't really
+[01:18] clear to me. But as I start to zoom in
+[01:21] it starts a picture starts to form and
+[01:24] that picture let me just remove these
+[01:26] drawings is all right, you know what? If
+[01:28] we did want to go lower which I think we
+[01:30] do, we could come back into 50% of the
+[01:32] range which okay, let me I'll do replay
+[01:35] in a minute, but come back in the 50% of
+[01:36] the range and then look to potentially
+[01:38] go lower
+[01:39] and then on the 15-minute it's kind of
+[01:41] saying the same thing. So at open
+[01:44] let's see here start new.
+[01:51] At open we had
+[01:53] sorry.
+[01:55] We had exactly that, right? We had swept
+[01:57] Asia high on NQ. We hadn't on ES which
+[02:00] my indicator pointed out here
+[02:02] and then we open and boom. We shoot up
+[02:05] pretty aggressively.
+[02:10] That's wrong. Hold on.
+[02:17] Here's the open. All right, so we
+[02:18] manipulate up. Now what I wanted to see
+[02:20] at this point. I'm like all right, we
+[02:22] have all this liquidity that's been
+[02:24] built up down here, right? So as we zoom
+[02:25] in I'm like all right, we can sweep
+[02:27] higher hit that 50% of that larger level
+[02:29] and then target London lows that looks
+[02:32] pretty clean. So we've got this 1-hour
+[02:34] sitting to the left of us as well as
+[02:36] this 30-minute right here.
+[02:39] I want to see us tap into that and then
+[02:41] go lower.
+[02:42] So we come up and we don't quite tap it,
+[02:45] but we end up getting a pretty strong
+[02:47] push down after sweeping this external
+[02:50] liquidity here.
+[02:52] So I say okay, we haven't tapped a
+[02:53] higher timeframe, but we've got these
+[02:55] market maker sell models market maker
+[02:57] sell models which if you're unfamiliar
+[02:59] is just a
+[03:01] buy side of the curve and then a sell
+[03:03] side of the curve, right? And so on the
+[03:05] buy side of the curve what you do is you
+[03:08] build price efficiently. Excuse me.
+[03:12] You build price efficiently here.
+[03:14] You're building. You're building. You're
+[03:16] building all this liquidity. There's
+[03:18] liquidity sitting at these lows. Here
+[03:21] there's liquidity sitting at these lows
+[03:22] here. Liquidity sitting at these lows
+[03:23] here. Liquidity sitting at these lows
+[03:24] here. Liquidity here. You build build
+[03:26] build and then you officially run that
+[03:28] liquidity and so that's what we've been
+[03:30] seeing here. So when this play shows up
+[03:32] and I had to take it on the 4-minute
+[03:33] because that's where the
+[03:35] fair value gap was that gets inverted
+[03:37] and we get a change in the state right
+[03:38] here. I say, you know what?
+[03:40] We've got all this liquidity built up.
+[03:42] We've been running these London lows
+[03:43] pretty effectively all week. So if we
+[03:46] get this entry, I'm going to enter right
+[03:48] here. I went super small on this, right?
+[03:50] One
+[03:52] micro contract so so small
+[03:55] for my initial risk and then I actually
+[03:57] added one contract when we came back and
+[04:01] tapped around here. So decent
+[04:05] really not that much risk at all. 65
+[04:07] points two micros, right? Because I
+[04:09] didn't have my full confirmation model.
+[04:11] So I wasn't going to go heavy on this.
+[04:13] So when we came down here, the other
+[04:15] reason was that we did have SMT and we
+[04:17] were delivering to these higher
+[04:18] timeframe fair value gaps. So I'm
+[04:19] shorting directly into opposing order
+[04:22] flow.
+[04:23] But like I said, we had this liquidity
+[04:25] built up and so I was thinking we're
+[04:26] going to go lower and of course that is
+[04:28] not what happens. I get stopped out
+[04:30] pretty quickly. So price wrecks me
+[04:33] almost immediately.
+[04:34] Trade number two. Now
+[04:37] price is actually doing what I want to
+[04:39] see.
+[04:40] It's tapping into this 1-hour gap. We've
+[04:43] now had an internal sweep of liquidity,
+[04:45] right? Right here.
+[04:48] So this all of a sudden looks like
+[04:51] the
+[04:52] this was manipulation one. This was
+[04:54] manipulation two
+[04:56] and now the real play is going to reveal
+[04:57] itself. So tapping to higher timeframe
+[05:00] our change in the state becomes this
+[05:02] right here,
+[05:04] right? Get rid of this.
+[05:06] This is our new change in the state.
+[05:11] And when we get that,
+[05:13] we get a nice even better RR than the
+[05:15] first time.
+[05:18] Boom. Stop up here.
+[05:21] Take profit at London lows or honestly
+[05:23] this liquidity sitting down here.
+[05:25] So
+[05:26] what happens? We start moving and when
+[05:28] we get this SMT down here
+[05:30] and we're tapping into these higher time
+[05:32] frames again.
+[05:34] I say, you know what? It's time to go
+[05:37] break even because
+[05:39] if price wants to reverse here, this is
+[05:41] where it's going to happen. We've
+[05:42] already seen what these fair value gaps
+[05:45] do. Every time we enter this area, we
+[05:47] shoot up. We enter this area, we shoot
+[05:48] up. So I don't want to ignore the fact
+[05:50] that the market has been telling me when
+[05:51] it comes down here, it rejects. So I go
+[05:54] break even a little early. Now
+[05:57] what ends up happening? We come back,
+[05:59] test the change in the state to a T
+[06:01] which is usually what I look for, right?
+[06:03] Get SMT at those highs. So typically I
+[06:06] would still be in this trade, but I took
+[06:08] a loss this morning. On top of that like
+[06:10] I said, we still have all of this
+[06:12] higher timeframe fair value gaps that
+[06:14] are pushing against us. We are now
+[06:15] entering into
+[06:17] can you guess? OTE of the range OTE SMT
+[06:21] higher timeframe delivery. So if we want
+[06:23] to go higher, this is what I'm looking
+[06:25] to see to take price higher. So I don't
+[06:28] want to sit in this any longer if this
+[06:30] is the market is telling me this is
+[06:31] where it can turn around. Unfortunately
+[06:33] in this case it really did just test the
+[06:35] change in the state as you can see right
+[06:37] here. I mean it just works so
+[06:38] beautifully every time. And
+[06:41] and then of course we just
+[06:43] go pretty much straight down to my
+[06:45] target. So didn't actually take London
+[06:47] low, I don't think, but we did take
+[06:49] TP1 would have definitely been down here
+[06:53] and then you would have held runners to
+[06:54] London low. So we'll see if it actually
+[06:56] ends up getting to London low or if
+[06:57] price just wants to keep pumping
+[07:00] for the rest of the day or go sideways,
+[07:02] who knows? But
+[07:04] really only one trade that I should have
+[07:06] entered and it was this one and I
+[07:08] shouldn't have gone break even here. I
+[07:09] should have held to down here. So all
+[07:11] this was taken on the live. I talked
+[07:13] through it in real time.
+[07:14] I think
+[07:16] taking a loss is always going to affect
+[07:18] your perception of the markets, right?
+[07:21] And
+[07:23] which is part of why I have a rule that
+[07:25] says if I take more than two losses in a
+[07:26] day, I'm done. Also, I can't take more
+[07:29] trade more than two trades in a day. I'm
+[07:31] done,
+[07:32] right? Because I know that my
+[07:33] decision-making gets weaker and weaker
+[07:36] and my ability to analyze the markets
+[07:37] objectively gets weaker and weaker after
+[07:40] every trade I enter. Whether that trade
+[07:42] is a winner or a loser, I'm eating away
+[07:44] bandwidth and if it's a winner, I'm
+[07:46] feeling on top of the world and cocky
+[07:48] like I can't be taken down. So that's a
+[07:49] very dangerous time to trade and if it's
+[07:51] a loser, I'm trying to fight for my
+[07:53] account, right? And so I'm over risking
+[07:55] and I'm FOMOing to things that aren't
+[07:57] really A plus and so I built these rules
+[07:59] to protect me from myself
+[08:02] and that's exactly what today did.
+[08:04] I lost 60 points
+[08:07] on one trade and a break even on another
+[08:09] that should have been a winner, but
+[08:11] that's exactly why I
+[08:14] have my rules are what they are because
+[08:17] even me who's been doing this for nearly
+[08:18] two decades now isn't immune to human
+[08:21] psychology, right? We are all our own
+[08:23] worst enemy as traders and so had I just
+[08:26] been patient and not taken this trade
+[08:28] here,
+[08:29] waited for this one, I probably wouldn't
+[08:31] have gone break even early. I would have
+[08:33] just let this play out because I've seen
+[08:34] this work a hundred times. Anyway,
+[08:37] that's today. I'm going to journal about
+[08:38] it.
+[08:39] Hopefully you guys learned a little
+[08:41] something from my loss.
+[08:42] You can we go live every day. Everything
+[08:44] is fully transparent. I talked to the
+[08:45] trades in real time.
+[08:47] Check us out. Hope to see you there.

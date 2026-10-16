@@ -1,0 +1,33 @@
+# Most traders enter after the first sweep and wonder why their R:R is stuck at 1:1. There's a second | shorts | https://www.youtube.com/watch?v=e-4QhCcUafg | 60s | uploaded 20260416
+[00:00] My wrist reward ratio was constantly
+[00:01] stuck at one to one. Then I learned
+[00:03] about a sweep that happens after the
+[00:05] main external liquidity is taken and my
+[00:06] entries got so much better that my
+[00:08] average RR jumped over 200%. [music]
+[00:11] Here's a typical entry. Price sweeps
+[00:12] external liquidity, confirmation start
+[00:14] form. Most traders enter right here
+[00:16] after the first inversion. Stop goes
+[00:18] above the sweep targeting opposing
+[00:20] liquidity. Risk reward about one to one.
+[00:22] Now watch what happens if you wait.
+[00:24] After the main sweep, price doesn't
+[00:25] always go straight to target. It makes a
+[00:27] small counter move first. A little pull
+[00:30] back sweeping this internal liquidity
+[00:32] here knocking out early entries. This
+[00:34] creates a new fair value gap and a new
+[00:36] change in the state of delivery. Price
+[00:38] closes through it, that's your entry.
+[00:40] Same trade, same direction, same target,
+[00:42] [music] but the entry is tighter, the
+[00:44] stop is smaller, and the risk reward
+[00:46] goes from one to one to one to three.
+[00:48] The internal sweep gives you the best
+[00:49] entry price because you wait for the
+[00:51] last shakeout before the real move
+[00:52] begins. I put together a guide that
+[00:54] shows you exactly what internal sweeps
+[00:55] look like and how to use them. Comment
+[00:57] internal and I'll DM it to you for free.

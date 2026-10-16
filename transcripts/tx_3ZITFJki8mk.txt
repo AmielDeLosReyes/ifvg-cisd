@@ -1,0 +1,599 @@
+# Creative Trader Indicator Walkthrough | videos | https://www.youtube.com/watch?v=3ZITFJki8mk | 1294s | uploaded 20260324
+[00:00] What's up everyone? Today I'm going to
+[00:02] walk you through the entire Creative
+[00:04] Trader Indicator Bundle. I'm going to
+[00:05] show you every feature, every setting,
+[00:07] and exactly what it looks like on a live
+[00:09] chart. I'm so excited to be walking you
+[00:11] through this. I have spent months
+[00:13] building this thing. It has been an
+[00:14] absolute labor of love, and I appreciate
+[00:16] your support, and I'm excited for you to
+[00:18] experience what this indicator can do
+[00:20] for you. Quick note before we start.
+[00:22] This isn't just one indicator. It is
+[00:24] three separate indicators, and that's
+[00:27] very intentional. Think of it like a
+[00:30] Swiss Army knife versus buying a real
+[00:32] knife, a real screwdriver, and a real
+[00:34] saw. The Swiss Army knife does
+[00:36] everything okay. The dedicated tools do
+[00:40] each thing the right way. So,
+[00:43] I built dedicated tools
+[00:45] that each do their job properly, and
+[00:48] bundle them together as one offer.
+[00:50] Starting with FEGs and session levels.
+[00:53] This is your master toggle here. You can
+[00:54] turn off the FEGs, you can turn off the
+[00:56] session levels, up to you. This tracks
+[00:59] up to 10 time frames simultaneously. So,
+[01:02] you can have fair value gaps on the
+[01:03] 1-minute all the way up to the 1-day and
+[01:06] beyond. So, if I'm on the 1-minute
+[01:08] chart, and I want to see all the fair
+[01:10] value gaps
+[01:11] that exist on the 1-minute all the way
+[01:13] up to the 4-hour, they're all going to
+[01:16] show here. You can toggle on whichever
+[01:18] ones you want. You can change them. You
+[01:21] can change the label. If you want the
+[01:23] 5-minute to say 5-minute, you can do
+[01:26] that, and it'll be reflected right here.
+[01:30] Length of boxes just changes how long
+[01:32] these fair value gaps are.
+[01:34] If you make it 100, you're going to see
+[01:35] they extend way out to the right. I
+[01:39] don't advise that, but everybody has
+[01:41] their own visual preferences when it
+[01:42] comes to the chart. So, if this is what
+[01:44] you prefer,
+[01:45] have at it. I think eight is a really
+[01:48] nice middle ground. ATR is designed to
+[01:50] manage
+[01:52] contra- contract rollover. So, when
+[01:55] there's a contract rollover, there's
+[01:57] going to always be a huge gap on your
+[01:59] charts. So, we just had a rollover
+[02:01] recently. To prevent massive gaps
+[02:03] showing up here, we built in an ATR
+[02:05] filter to make sure that any gaps that
+[02:07] are this large are ignored. So,
+[02:11] real gaps like that don't exist in the
+[02:12] market, so you have nothing to worry
+[02:13] about. But, when it comes to contract
+[02:15] rollover, you don't want your charts to
+[02:18] look like a Jackson Pollock painting,
+[02:19] which is what ends up happening if you
+[02:21] don't have an ATR setting. So, keep it
+[02:24] at three. If you ever run into issues
+[02:25] where the chart looks insane, come here,
+[02:28] turn this down, that's most likely the
+[02:30] solution.
+[02:32] Hide fair value gaps lower than the
+[02:34] enabled time frame. This makes it so
+[02:35] that if I'm on the 4-hour, I can't see
+[02:37] anything below. If I'm the one and on
+[02:39] the 1-hour, I see the 1-hour and the
+[02:41] 4-hour, but nothing below. If I'm on the
+[02:43] 5-minute, you guys get where I'm going.
+[02:45] It's fairly self-explanatory. This is a
+[02:47] really helpful tool uh in terms of
+[02:49] having clarity on the charts as you look
+[02:51] at higher time frames.
+[02:55] Continuing on, we've got
+[02:58] uh bullish fair value gap fair value gap
+[03:00] label colors. That's just going to
+[03:01] change what the numbers look like. So,
+[03:04] if I want the five to be blue, I can
+[03:07] choose this to be blue, and then all of
+[03:09] the Sorry, those are bullish. So, all of
+[03:11] my bullish ones are now blue. Hooray.
+[03:15] Uh I like to keep mine black. It's just
+[03:17] nice and clean. Label size is exactly
+[03:19] what it sounds like. It changes the size
+[03:21] of the label itself. So, if you want
+[03:23] super large numbers, you can certainly
+[03:25] do that, and this changes where those
+[03:28] numbers are in relationship to the fair
+[03:30] value gap.
+[03:32] Everyone has their own preferences, so I
+[03:33] wanted to make sure that you had the
+[03:35] option to adjust this accordingly.
+[03:37] I like everything small and really
+[03:40] clean. Border width, it's going to
+[03:42] change how thick the borders are on
+[03:44] those fair value gaps.
+[03:46] Again, I like it thin. It just looks
+[03:48] better to me. It's easier to read.
+[03:50] CE bullish FEG line and CE bearish line.
+[03:54] CE stands for consequent encroachment.
+[03:56] So, for those of you who are familiar,
+[03:58] consequent encroachment is 50% of a fair
+[04:02] value gap. Often times, we dig into 50%
+[04:05] of a fair value gap before we see a
+[04:09] reversal. So, we tap the fair value gap.
+[04:11] If we're going to respect it, we end up
+[04:14] tapping this 50% line and then coming
+[04:16] down. So, this is just a nice tool to
+[04:18] help you visualize that more clearly,
+[04:20] and you can choose the padding, meaning
+[04:22] how big that line is. I personally don't
+[04:25] turn these on. I find it pretty easy to
+[04:27] or I just keep my transparency at zero,
+[04:29] which is what it's set to as a default.
+[04:31] Um I find it easy to just eye this
+[04:34] stuff, uh and it's just extra clutter on
+[04:36] your charts.
+[04:38] That is the fair value gap indicator. It
+[04:40] was designed to be simple. Every one of
+[04:42] these indicators is designed to be
+[04:43] incredibly powerful while also being
+[04:46] incredibly simple. I didn't want to
+[04:47] overcomplicate them or overclutter them
+[04:49] with things you don't need. The cleaner
+[04:51] the charts, the better the picture
+[04:53] you're going to have of what's happening
+[04:55] with price, the more effective the tool
+[04:57] is going to be for you. So, none of this
+[04:59] is supposed to be confusing. None of it
+[05:00] is supposed to be overwhelming. But, if
+[05:02] you ever get off the beaten path and
+[05:04] you're like, "Oh man, I changed too many
+[05:05] things. I just want to start over." You
+[05:07] come down here, you click reset
+[05:09] settings, and it'll reset to the
+[05:11] original settings that came when you
+[05:12] downloaded it.
+[05:14] Moving on to session levels. Let's turn
+[05:17] this off for a second. Session levels,
+[05:20] also really simple. We're going to show
+[05:22] Asia high or low. If we unclick that,
+[05:25] Asia high low is gone. You can choose
+[05:26] what color you want the line. I have all
+[05:28] my kind lines black and solid except for
+[05:31] previous day high and low, which I have
+[05:33] as dashed, because it just gives me a
+[05:35] really clean sort of boundary of where
+[05:37] price is, right? These are the most
+[05:39] obvious liquidity levels on the charts,
+[05:42] and so I just want to see my range
+[05:44] really obviously. If I'm looking to go
+[05:46] higher, I might look for New York low to
+[05:48] get taken and then shoot up to previous
+[05:50] day high. If I'm looking to go higher or
+[05:51] lower, maybe I'll look for previous day
+[05:53] high to be taken, and then I start
+[05:54] looking for shorts, depending on what
+[05:56] liquidity is already left on the charts.
+[05:59] Beyond that, you're going to have your
+[06:03] um Oh, this is actually interesting. So,
+[06:06] I personally, when price sweeps one of
+[06:08] these levels, it's going to
+[06:10] automatically stop right there and label
+[06:13] it. So, as you can see, we've swept Asia
+[06:15] high. It's stopped Asia high, and it's
+[06:16] labeled it as Asia high. London high has
+[06:18] not been taken yet, so it's still on the
+[06:20] chart. If you're someone who wants those
+[06:22] lines to continue to extend, they'll do
+[06:23] exactly that. So, you'll see Asia high
+[06:25] has a little check mark cuz it's already
+[06:27] been swept, but the line comes all the
+[06:29] way out to where price is currently. You
+[06:32] can change the
+[06:33] size of the labels. It's exactly what it
+[06:35] sounds like, and you can also change how
+[06:37] far off they are from the
+[06:41] uh
+[06:43] line that is currently
+[06:45] where they currently live. Uh
+[06:47] It's just These are just aesthetics.
+[06:49] They don't change anything meaningful on
+[06:50] the charts whatsoever.
+[06:52] Um and then you set your time zone. This
+[06:54] is set to New York, but always
+[06:56] double-check. Make sure this is to your
+[06:58] liking, and that there are, of course,
+[07:00] uh areas where Asia overlaps with London
+[07:02] and lower London overlaps with New York.
+[07:05] So, change it to your preferences
+[07:08] uh one time, and then it'll be locked.
+[07:10] Um okay. And then, just so you can see,
+[07:12] we'll just do a quick replay here
+[07:14] what this actually looks like in real
+[07:16] time, where price is sweeping one level.
+[07:19] If you're inside of a session, so we're
+[07:21] in New York, so when it sweeps New York,
+[07:22] it's going to move New York boundary up,
+[07:25] right? Uh
+[07:27] until the New York session is over, it's
+[07:29] not going to lock that high and low. So,
+[07:31] Asia's over, so the high has been
+[07:32] locked. London and Asia are both over
+[07:34] here, so those lows have been locked.
+[07:36] Previous day low and previous day high
+[07:38] have obviously been locked, um
+[07:41] but they're still in play.
+[07:42] So, that's how that part of the
+[07:45] indicator works.
+[07:47] Let's look at SMT. This is my favorite
+[07:50] indicator by far. Uh because it's going
+[07:53] to update SMT in real time. So, the
+[07:56] second the SMT forms with whatever asset
+[07:58] you're comparing it to, the SMT is going
+[08:00] to show up in the chart, and it's going
+[08:01] to adjust in real time.
+[08:04] Let's look at the settings. It's very,
+[08:06] very simple. Uh it's been really boiled
+[08:08] down to just the crucial aspects of SMT,
+[08:12] so you don't need to worry about all the
+[08:14] bells and whistles.
+[08:15] Now, show SMT, pretty obvious whether or
+[08:18] not you want to see it on your chart.
+[08:20] This is going to determine what asset
+[08:23] is being compared to the SMT indicator.
+[08:27] ES, we're on the June contract right
+[08:30] now, so I have to compare it to the June
+[08:32] contract of ES. But, whatever
+[08:35] But, whatever asset you're on,
+[08:39] it's going to compare this asset to
+[08:41] whatever you put in here. So, if I put
+[08:44] in Apple, I could compare this to Apple.
+[08:46] There'd be no reason to, but you can do
+[08:48] gold and silver. You can do ES and NQ.
+[08:51] You can do whatever you want.
+[08:52] Uh this is going to be set to 100 by
+[08:55] default, and I recommend you stay within
+[08:57] 1 to 200 range. Because the further back
+[09:00] you put it, the higher you put it, the
+[09:02] more data it's going to have to process
+[09:05] in order to show an SMT. So, the
+[09:09] number represents bars. So, this is 27
+[09:12] bars. So, on the 5-minute,
+[09:15] obviously, it's right there, right? This
+[09:17] is very This is very tight. But, as you
+[09:19] get in to lower and lower time frames,
+[09:23] uh it's still less than 72 bars. Drop
+[09:27] down to the 1-minute.
+[09:29] Now, we're at
+[09:32] 146 bars. So, 200 is really more than
+[09:36] enough. If you ever
+[09:39] want to uh increase it, what I would
+[09:41] recommend doing and what I do constantly
+[09:43] is I'm always switching time frames,
+[09:44] right? As a trader, you're always You
+[09:46] want to be looking at multiple time
+[09:48] frames. So, if you have it set to 200,
+[09:50] and you're looking at the 5-minute, and
+[09:52] you see that there's a clear SMT here,
+[09:54] and you jump to the 1-minute, and you
+[09:56] don't see that same SMT,
+[09:58] that's usually why.
+[10:00] >> [sighs and gasps]
+[10:00] >> Moving on, let's look at uh
+[10:04] color. You can make it whatever color
+[10:05] that you want. You can make it thin,
+[10:08] normal, thick. I keep again, always
+[10:10] going to be thin, always going to be
+[10:11] clean for me.
+[10:13] Um
+[10:14] if you want really fat SMTs on your
+[10:17] charts, you can make this thick, and
+[10:20] it'll update.
+[10:23] Yeah.
+[10:25] Way too thick. Don't need that.
+[10:29] Uh label.
+[10:30] You can just
+[10:31] choose to say it'll say SMT Creative
+[10:34] Trader with the asset. If you get rid of
+[10:37] show symbol, it will remove the symbol
+[10:39] and just keep SMT Creative Trader.
+[10:41] And you can choose the size and the
+[10:42] color of that. I don't like the label.
+[10:45] Uh you know that you should know what
+[10:47] this is when it shows up on your chart.
+[10:49] The only thing that you can change is
+[10:52] or the only thing I think that's really
+[10:53] worth changing here is if you prefer
+[10:55] dashed or dotted lines to solid lines.
+[10:59] And when a dashed line shows up, you
+[11:01] just know that's an SMT.
+[11:03] I'll keep it at dashed. I like dashed.
+[11:05] All right. Uh alerts, you don't need to
+[11:07] worry about this.
+[11:09] Uh and delete mitigated divergence. So,
+[11:11] this is a big one.
+[11:13] This allows you to see all of the
+[11:15] divergences that have shown up on the
+[11:17] chart in the past. So, this what at one
+[11:20] point, there was a divergence here. But
+[11:22] once we crossed
+[11:24] through this line, that divergence
+[11:26] became invalidated, so this removed it
+[11:28] from the chart.
+[11:29] This is a really, really, really
+[11:31] fantastic feature, so that your chart
+[11:33] doesn't have a thousand SMTs going back
+[11:36] to the dawn of time.
+[11:37] Now, if we go back to here, we can see
+[11:40] watch this.
+[11:42] It's going to
+[11:44] plot that SMT as soon as it shows up.
+[11:46] Look at that.
+[11:48] And then it's going to continue to plot
+[11:49] that
+[11:50] and hold it until that SMT is
+[11:53] invalidated. Like you just saw here,
+[11:54] this showed up, invalidated. It's moving
+[11:56] fast. So, that's there, now it's there,
+[11:58] invalidated. It's also only going to
+[12:00] show the mitigations as the final
+[12:03] mitigation. So, as you can see, this one
+[12:05] has been moving down with the move. When
+[12:07] this finally gets mitigated, it's only
+[12:10] going to show this mitigation here. It's
+[12:11] not going to show the thousand
+[12:13] iterations that eventually became this
+[12:16] SMT.
+[12:17] Uh you can see that on a smaller time
+[12:19] frame here.
+[12:25] If you're ever confused about any of
+[12:26] this, a great thing to do is just go
+[12:27] into replay, speed it up, and watch how
+[12:30] it performs, and you'll start to
+[12:31] understand the mechanics more clearly.
+[12:34] I have these turned off because once an
+[12:36] SMT is not an SMT, I really don't care
+[12:38] if it's on the chart anymore, right?
+[12:39] It's no longer valid data for me. But
+[12:41] some people like to know where they
+[12:42] were,
+[12:43] uh and it can be good for backtesting.
+[12:47] All right. And so, that is the SMT
+[12:49] indicator.
+[12:50] All right, let's look at news. So, this
+[12:51] is pretty cool. This is going to show
+[12:54] you all of your Forex Factory news for
+[12:57] the coming week or coming day, depending
+[12:59] on how you have it set. It's also going
+[13:01] to show you data highs and data lows in
+[13:04] real time. So, first thing, same as
+[13:07] everything, you got your master toggles.
+[13:08] If you want to see the news filter, if
+[13:10] you want to see the data highs and data
+[13:12] lows. The news filter encompasses this
+[13:14] table down here, as well as these dots,
+[13:17] which make up
+[13:19] Excuse me, which uh make up the um
+[13:22] notifications. It's all fully
+[13:24] customizable based on your aesthetic.
+[13:26] So, I don't have high or holiday or low
+[13:30] news turned on.
+[13:31] I see no reason for that.
+[13:33] It's not really relevant news for me. I
+[13:35] keep it at
+[13:36] orange and red. In the event there's
+[13:39] multiple news events occurring on a the
+[13:41] same time, it's always going to show the
+[13:44] most powerful one. So, if you have red
+[13:48] folder news, it's going to show red
+[13:49] folder. If you have yellow and orange,
+[13:51] it's going to show orange. If you have
+[13:53] yellow and red, it's going to just show
+[13:56] red, as you can see.
+[13:59] So, always going to give you the most
+[14:01] important information.
+[14:03] Automatic is going to set it to USD. You
+[14:05] can also just set it to USD. If you
+[14:07] trade other currencies,
+[14:09] uh
+[14:10] this will give you news relative to
+[14:11] those countries.
+[14:13] Chart history. So,
+[14:15] I really only care about today, and I
+[14:17] set it to either future or past and
+[14:19] future. Past and future will give you
+[14:21] all of the data from that week.
+[14:24] Future will give you
+[14:26] uh let's jump to the 30 just so you guys
+[14:28] can see.
+[14:33] Oh, okay, here we go. This week, that's
+[14:34] why.
+[14:35] All right. So, it's always going to give
+[14:37] you data from the week. So,
+[14:40] if you want
+[14:42] the full week, you choose this week. If
+[14:45] you want just today,
+[14:47] you choose today. If you want the past
+[14:49] and the future, you choose past and
+[14:51] future. If you only want what's
+[14:52] upcoming, you choose future. I prefer
+[14:55] future. So, if we're going to go this
+[14:57] week, for instance, past and future,
+[14:59] it's going to show us let's do this so
+[15:00] that we can
+[15:02] have a good example here.
+[15:04] You can see that you have all these past
+[15:06] news events. You can know exactly what
+[15:08] happened by hovering over them. This is
+[15:10] what happened here, this is what
+[15:12] happened here. This could be good for
+[15:13] backtesting if you want to just go and
+[15:14] see how news reacts at these different
+[15:16] events. It's a really helpful tool.
+[15:20] Otherwise, if you change this to you can
+[15:22] see where price is now. If I moved it to
+[15:24] just future, it's only going to show me
+[15:27] the upcoming news. Right? That's how I
+[15:29] prefer it. I also prefer just today.
+[15:33] So, it's only going to show me news
+[15:34] today because I'm on the one hour,
+[15:35] that's actually news from this week. So,
+[15:37] we'll just keep it on there for the
+[15:38] purposes of this demonstration.
+[15:40] News dots. These little guys. If you
+[15:43] hover over a news dot, it's going to
+[15:44] tell you exactly what news is occurring
+[15:47] at that time on that day. Pretty
+[15:49] freaking cool.
+[15:50] Um
+[15:52] you can turn them on,
+[15:53] we can turn them off.
+[15:56] Change the size,
+[15:57] uh
+[15:58] and where the uh
+[16:01] news is shown.
+[16:02] Show lines. If you want no lines, but
+[16:05] you want to keep the dots, you can do
+[16:06] that. The dots will stay there. Uh and
+[16:09] you can still hover over this, and
+[16:11] you'll know that it's showing up. So,
+[16:12] it's a little bit of a cleaner way to
+[16:14] keep that on your chart.
+[16:16] You can change the size, you can change
+[16:19] uh
+[16:19] the type of line.
+[16:21] If you want a dash, if you want it
+[16:22] heavy, if you want to really make sure
+[16:24] you don't forget about that news, you
+[16:26] can have it look like this. But again,
+[16:28] not clean, so I like it uh nice and nice
+[16:31] and simple.
+[16:32] The news table will be down here. It
+[16:35] will also correlate to whatever news
+[16:37] you've had you have selected. So, it
+[16:39] will show you all upcoming news events
+[16:41] based on these
+[16:43] set uh selections here.
+[16:46] Uh and it'll also give you a countdown.
+[16:48] So, this happened 13 hours ago. Let's or
+[16:51] this is happening, I'm sorry, in 13
+[16:53] hours.
+[16:54] So, let's actually just watch what
+[16:56] happens. As we move forward, you can see
+[16:58] 1 hour 30 minutes, and then boom, now
+[17:00] negative. So, it marks how much time you
+[17:02] have until the news shows up, and then
+[17:04] how much time is
+[17:07] uh left before the news is there. And
+[17:09] you'll see it's changing cuz of the
+[17:10] settings, it only shows a week, so here
+[17:12] we go. 5 4 3 2 1 news. Boom boom boom
+[17:14] boom. It's pretty cool.
+[17:16] Um
+[17:18] and then you can change the colors and
+[17:19] adjust whatever you want. We don't need
+[17:21] to go through all this.
+[17:22] Uh it's just for aesthetics. Um fractal
+[17:25] threshold. Okay, so data highs and data
+[17:28] lows. This is a big one.
+[17:30] So,
+[17:31] it's going to The thinking behind data
+[17:33] highs and data lows is that if it's a
+[17:35] swing point, a swing high or low, it's
+[17:37] going to create a data high or low.
+[17:42] Um and if it's just a random candle,
+[17:44] like right here, right? If news is just
+[17:46] this, it's not going to create a data
+[17:48] high or low. People get this confused,
+[17:50] they think that, okay, this was the news
+[17:52] candle, so this is automatically a data
+[17:54] low, and this is a data high. But no,
+[17:56] this isn't a swing point, so this
+[17:58] wouldn't be
+[17:59] a data low or a data high. This is a
+[18:01] swing point. So, it's being marked as a
+[18:04] data high. Now, you can change
+[18:07] uh the way this works is it looks back
+[18:10] um a certain amount of candles to
+[18:12] determine what a swing point is.
+[18:14] And it also looks at how big the wick
+[18:16] needs to be in order to form a can a
+[18:20] data high or a data low. So, if I set
+[18:22] this to 30, for instance, let's look at
+[18:24] how big this is.
+[18:26] Uh this is uh
+[18:28] 6.75 is times four.
+[18:31] So, let's actually
+[18:33] cuz each uh is 0.25 on NQ,
+[18:37] right? Oh, here, let's do this as well.
+[18:40] Then that data high is going to go away.
+[18:43] Uh it's up to you how you set these. If
+[18:46] a data high shows up, and it's very
+[18:48] clearly not a data high, maybe it's sort
+[18:50] of a mini swing point, right? Like if
+[18:53] this came down here, and then put in a
+[18:55] little swing right
+[18:57] here. I mean, it's a swing point, right?
+[18:59] It's definitely a swing point. It's a
+[19:00] small one, but it's a swing point. It
+[19:02] created a new high, creates what ends up
+[19:04] becoming an external high, so it's very
+[19:05] clearly a data high. And as price moves,
+[19:09] the data high is going to move with
+[19:10] price until it gets mitigated. Let's see
+[19:14] if it comes up.
+[19:19] >> [snorts]
+[19:29] >> And that data high is living on the
+[19:30] edge.
+[19:32] See all these, they're getting taken out
+[19:33] and then mitigated, and so they're being
+[19:34] removed from the chart.
+[19:36] So, the other option what you can do
+[19:39] is
+[19:41] if you don't want data highs to be
+[19:43] there, obviously you can just remove
+[19:45] um
+[19:48] I'm sorry, you can delete on mitigation,
+[19:50] which means uh
+[19:53] and now I have that turned off which
+[19:54] means all these data highs that we
+[19:55] previously have been disappeared
+[19:57] are gone, right? So if I delete a
+[19:59] mitigation any data higher data low it's
+[20:00] been taken will disappear from the
+[20:02] charts. Same with the SMTs. Sometimes
+[20:05] these can be a little bit more helpful
+[20:07] at least like intraday so if I took a
+[20:09] data low
+[20:10] on this session, right? And then I and I
+[20:13] was looking to go higher I'd say okay
+[20:14] we've already taken the data low now I
+[20:16] can look to go higher. So in that
+[20:17] context it is helpful.
+[20:20] And then we have you can make the colors
+[20:22] whatever you want they're automatically
+[20:23] set based on the
+[20:26] type of economic news we can choose our
+[20:28] color.
+[20:29] So if you want
+[20:32] red folder news to be blue you can do
+[20:33] that. I don't know why you would but
+[20:35] that's what you can do it's totally up
+[20:37] to you. You can change the style of the
+[20:38] line you can change the if you want it
+[20:40] to be labeled or not.
+[20:42] If you don't have it labeled it's just
+[20:43] going to be a random line on your chart.
+[20:46] And you can also choose again how far
+[20:49] you if you want it above below once it
+[20:51] gets mitigated and how far.
+[20:54] And then if you want if you want to lock
+[20:56] certain a certain time for news you can
+[20:58] do that manually as well.
+[21:01] And that is the indicator bundle guys.
+[21:04] This is version one there's going to be
+[21:06] iterations there's going to be
+[21:08] improvements and I'm really excited to
+[21:11] work with all of you to figure out what
+[21:13] that looks like and how that comes to be
+[21:15] in the coming months. Thank you all so
+[21:18] much for your support in
+[21:21] choosing to be a part of this indicator
+[21:22] choosing to be a part of my community.
+[21:24] It means an incredible amount to me that
+[21:27] you're all here
+[21:28] that we're all learning these strategies
+[21:30] together and we're all becoming better
+[21:31] traders.
+[21:32] I'll see you in the charts.

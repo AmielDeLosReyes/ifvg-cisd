@@ -1,0 +1,41 @@
+# The only Trading Model you need (78 win rate) | shorts | https://www.youtube.com/watch?v=HBa6qQUpnq0 | 75s | uploaded 20260126
+[00:00] If I had to use one trading strategy for
+[00:01] the rest of my life, this would be it.
+[00:03] It's called the confirmation model. It's
+[00:04] based on four confirmations that all
+[00:06] work together. In the next 60 seconds,
+[00:08] I'll break down the entire process.
+[00:10] First, we wait for a liquidity sweep.
+[00:12] Price takes out buy side or sell side
+[00:14] stops at a major high or low. Next, we
+[00:17] confirm we're delivering from a higher
+[00:19] time frame fair value gap on either the
+[00:21] 15-minute [music]
+[00:22] or 1-hour chart. As you can see here,
+[00:24] we're delivering from a 1-hour fair
+[00:25] value gap. Third, we drop to the
+[00:27] 1-minute chart and look for a fair value
+[00:29] gap to get inversed. [music]
+[00:31] As you can see, we've inversed a fair
+[00:33] value gap here. But, here's what most
+[00:34] traders get wrong. They enter right here
+[00:37] at the inversion. And in this example,
+[00:39] the fair value gap failed. [music]
+[00:41] That's why I wait for one more
+[00:42] confirmation, a change in the state of
+[00:44] delivery. I need to see price close
+[00:46] below this first series of up close
+[00:47] candles, confirming structure actually
+[00:50] broke. That's my entry. This is why I
+[00:52] never miss the big moves. Price swept
+[00:54] the high, delivered from the 1-hour fair
+[00:56] value gap, inverted the 1-minute FVG,
+[00:58] gave us a Sisti, and ran straight
+[01:00] [music] to sell side liquidity. Perfect.
+[01:02] And there's one more thing that'll make
+[01:04] this even clearer for you. I built a
+[01:06] free checklist that breaks down the
+[01:07] confirmation model step by step, so you
+[01:09] can replicate it for yourself. Click the
+[01:11] link in my bio to join my free Discord
+[01:13] and download it for free.

@@ -1,0 +1,229 @@
+# Most Order Block Strategies Fail (Here's Why) | videos | https://www.youtube.com/watch?v=LQAj-xGoywA | 478s | uploaded 20260914
+[00:00] Most traders learn about order blocks,
+[00:01] draw a bunch of boxes on their chart,
+[00:03] and spend the next 6 months wondering
+[00:05] why they didn't work. I've been that
+[00:07] trader. I've also placed 91st out of
+[00:09] 82,000 retail traders in the LEAP
+[00:12] competition, while also getting my
+[00:13] students results like this. And order
+[00:16] blocks are a huge part of how I got
+[00:18] here. What I'm going to show you today
+[00:20] is the part most people skip. Not just
+[00:22] what they are, but why they work. That's
+[00:25] what actually makes them valuable. Now,
+[00:27] I'll be up front. There are a lot of
+[00:29] versions floating around of what an
+[00:31] order block is. What I'm sharing is how
+[00:33] I understand order blocks, how I teach
+[00:35] them, and what has actually worked for
+[00:37] me in my trading. Hear it out, the logic
+[00:40] holds. Let's get into it. By the end of
+[00:42] this video, you're going to know exactly
+[00:44] what an order block is, how to identify
+[00:46] a valid one on the chart, and how it
+[00:48] plugs in to the larger narrative of the
+[00:49] markets. Here's the mistake I see almost
+[00:52] every time someone first learns about
+[00:54] order blocks. They hear the concept,
+[00:56] they grab the rectangle tool, and they
+[00:57] start drawing blocks everywhere. Every
+[01:00] little pullback, every candle that
+[01:01] looked like it had some momentum. Their
+[01:03] chart turns into a construction site.
+[01:05] Then when price comes near one of these
+[01:07] boxes, they jump in. No entry trigger,
+[01:09] no defined target, no real reason to be
+[01:11] there. The reason this happens isn't
+[01:14] that the concept is wrong, it's that
+[01:15] most explanations skip the why. They
+[01:18] give you the definition and send you to
+[01:20] the chart. But without understanding why
+[01:22] they exist in the first place, you can't
+[01:24] tell which pullback candles actually
+[01:25] mattered from the ones that didn't. To
+[01:28] understand order blocks, you first have
+[01:29] to understand a problem that every large
+[01:31] institution in the market has to deal
+[01:33] with. Imagine you're a hedge fund. You
+[01:35] manage billions of dollars,
+[01:37] >> [music]
+[01:37] >> and you want to put a massive position
+[01:39] to work on the Nasdaq. Here's the
+[01:41] problem. You can't just buy all at once.
+[01:43] There aren't enough orders in the
+[01:45] market, or what we call liquidity, to
+[01:48] fill you at the price you want. So, the
+[01:50] moment you start buying that much
+[01:51] volume, you actually move price against
+[01:54] yourself. You're literally competing
+[01:56] with your own order. It's as if you went
+[01:58] to an auction all by yourself, but
+[02:00] instead of paying the absolute lowest
+[02:02] price for something, you keep raising
+[02:04] the bid against yourself. By the time
+[02:06] you're done, the orders you wanted for
+[02:08] $100 are now $104 because you kept
+[02:12] raising the bid. You've paid way more
+[02:14] than you should have and you're already
+[02:15] down before the trade even starts. So,
+[02:18] instead, institutions have to be
+[02:20] strategic about when and where they
+[02:22] build their positions. They need the
+[02:24] market to be moving against them. They
+[02:26] need opposing order flow, enough people
+[02:29] selling to absorb their size without
+[02:31] price slipping away. And here's the key.
+[02:34] Whether that's happening because
+[02:36] institutions are deliberately
+[02:38] engineering the move, what you might
+[02:39] have heard as a stop hunt, or simply
+[02:41] because large orders need opposing flow
+[02:43] to get filled, the chart looks the same.
+[02:46] Here's the concept at the heart of every
+[02:47] order block. Picture a market that's
+[02:49] clearly trending. Price is moving in one
+[02:52] direction with momentum. Institutions
+[02:54] are bullish and they want more exposure.
+[02:57] But, instead of chasing price higher and
+[02:58] overpaying, price pulls back against the
+[03:01] trend. One, maybe two or three candles,
+[03:04] just enough to shake out weak longs,
+[03:06] trigger stop losses, and get other
+[03:08] traders selling into the move. That
+[03:11] selling is exactly what gets absorbed.
+[03:14] Every trader who sells that dip is on
+[03:16] the other side of an institutional buy
+[03:18] order. The pullback candle or candles
+[03:20] where that absorption happened,
+[03:22] >> [music]
+[03:22] >> that's the order block. That close above
+[03:25] is your confirmation. It tells you the
+[03:26] level was absorbed and the move is
+[03:28] continuing. Here's how I want you to
+[03:30] think about it. A slingshot works
+[03:32] because of tension. You pull the band
+[03:34] back against the direction you actually
+[03:37] want to go. And that pullback isn't
+[03:39] weakness, it's potential. The further
+[03:42] back you pull, the harder it launches.
+[03:45] That is exactly what's happening in a
+[03:46] trending market. Price pulls back
+[03:49] against the trend. Retail traders see it
+[03:51] going the wrong way and start selling.
+[03:55] Stops get triggered, fear kicks in, and
+[03:57] when all that is happening, size is
+[03:59] loading into that sell pressure. Every
+[04:02] sell order is a buy order getting
+[04:04] filled. Then the tension releases and
+[04:06] price goes. The candle where the band
+[04:09] was pulled back to, that's the order
+[04:11] block. That's where the energy loaded.
+[04:13] Okay, with that foundation, the
+[04:15] definition is actually simple. A bullish
+[04:18] order block is the last bearish candle
+[04:21] or cluster of bearish candles before a
+[04:23] strong bullish move in an uptrending
+[04:25] market. A bearish order block is the
+[04:28] last bullish candle or cluster of
+[04:29] bullish candles before a strong bearish
+[04:32] move in a downtrend market. That's it.
+[04:34] Opposing pressure before price continues
+[04:36] its move. Let me show you exactly what
+[04:38] we're looking for. So, here's our
+[04:40] downtrend. Price is clearly going in one
+[04:43] direction. A run of bearish candles.
+[04:46] Clear momentum. Now, watch what happens
+[04:48] here. This group of bullish candles. A
+[04:50] pullback. That's the opposing pressure.
+[04:53] The orders being absorbed. That's our
+[04:56] candidate. But, here's how we confirm
+[04:58] it. We get a candle close below the open
+[05:01] of the initial pullback candle. That
+[05:03] close back below is what tells us the
+[05:06] order block is real. Without it, you've
+[05:09] just got a random candle. With it,
+[05:11] you've got confirmation that the
+[05:13] pullback was part of the overall trend
+[05:15] and the move wants to continue.
+[05:17] Now, let's scroll forward. Price pulls
+[05:19] back and look, it comes right back to
+[05:22] test the order block. This is completely
+[05:24] normal. A retest before the continuation
+[05:27] is exactly what we expect to see. And
+[05:29] there it goes. The order block held, the
+[05:32] move continued. That's an order block
+[05:34] doing its job. Now, not every candle is
+[05:36] an order block. This is where people get
+[05:38] into trouble. They start drawing boxes
+[05:40] on everything. Their charts become
+[05:42] unreadable and they have no idea which
+[05:44] order blocks actually matter. In full
+[05:45] disclosure, order blocks don't work
+[05:47] every time. No concept does. What we're
+[05:50] doing here is stacking probability,
+[05:53] finding the setups where the logic is
+[05:55] cleanest so that when they do work,
+[05:56] you're positioned for a real move, and
+[05:58] when they don't, your stop is in a place
+[06:00] that makes sense. So, here's the filter,
+[06:03] the three things that make an order
+[06:05] block valid. One,
+[06:07] the pullback has to be clean and quick.
+[06:09] We're looking for one to three candles
+[06:11] against the trend before the close back
+[06:13] above or below. If price is chopping
+[06:15] around for 30 minutes before it
+[06:16] confirms, the absorption wasn't
+[06:18] convincing. The cleaner and more
+[06:20] decisive the pullback, the stronger the
+[06:22] order block. Two, it has to be in a
+[06:25] trending context. Order blocks work
+[06:27] because institutions are adding to a
+[06:29] directional position. In a choppy,
+[06:31] non-trending market, there's no story.
+[06:34] And three, the confirmation close has to
+[06:37] show displacement. The candle that
+[06:38] closes back above or below has to be
+[06:41] strong and decisive. A weak close, a
+[06:44] doji, a slow grind back doesn't tell you
+[06:47] the level was absorbed convincingly.
+[06:48] Real institutional activity leaves a
+[06:51] mark.
+[06:51] >> [music]
+[06:52] >> If the confirmation looks hesitant, the
+[06:53] order block isn't convincing either. And
+[06:55] here's where I want to be straight with
+[06:56] you. Order blocks are not a standalone
+[06:58] signal. I'm not sitting here looking for
+[06:59] an order block and then getting into a
+[07:01] trade. That's not it. What I'm doing is
+[07:03] running my full confirmation model
+[07:05] first. That's the reason I'm in the
+[07:07] trade at all. If you don't know what my
+[07:08] confirmation model is, there's a link at
+[07:10] the end of this video. But sometimes,
+[07:12] the entry I got didn't give me the best
+[07:14] risk reward. Maybe I was a little early.
+[07:16] Maybe the move was faster than expected,
+[07:18] so I start looking for a better entry.
+[07:20] That's where the order block comes in. I
+[07:22] find the order block and I use it as
+[07:24] either my re-entry point or an
+[07:26] opportunity to add to a position. My
+[07:28] risk goes above or below the order
+[07:30] block, and suddenly, the trade that had
+[07:32] mediocre RR has a setup I actually like.
+[07:35] Defined risk, clean level, makes sense
+[07:38] with the overall narrative. Order blocks
+[07:40] are one of the cleanest precision tools
+[07:41] in the market, But, only when you
+[07:43] understand what they actually are and
+[07:44] how they fit into the larger narrative.
+[07:47] Don't be someone who draws boxes. Be a
+[07:49] reader of the market's story. And if you
+[07:51] want to see how I read the story in real
+[07:52] time, go ahead and click below so you
+[07:54] can trade with me live. Thanks for being
+[07:55] here, everybody. I'll see you in the
+[07:57] next one.

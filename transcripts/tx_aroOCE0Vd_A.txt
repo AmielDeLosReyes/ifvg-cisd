@@ -1,0 +1,179 @@
+# The Confirmation Model | videos | https://www.youtube.com/watch?v=aroOCE0Vd_A | 532s | uploaded 20251209
+[00:03] This is what it looks like from 10,000
+[00:05] ft. The checklist we need to have in
+[00:07] order to confidently enter a trade in
+[00:09] the market. A liquidity sweep that
+[00:11] happens inside of OTE. Delivering from a
+[00:14] higher time frame fair value gap. Put in
+[00:16] an SMT. Get an internal liquidity sweep.
+[00:19] Inverse a fair value gap. See a change
+[00:21] in the state of delivery with a clear
+[00:23] draw targeting opposing liquidity. We
+[00:26] enter the trade. We set our stop-loss.
+[00:28] and we let the trade play out. Here's
+[00:30] what that looks like as a bearish
+[00:32] example. We've come back up into the OTE
+[00:35] range where we've then swept liquidity.
+[00:37] We've put in an SMT at these highs,
+[00:40] tapped into a higher time frame, fair
+[00:42] value gap, had an internal sweep of
+[00:44] liquidity. We then get a fair value gap
+[00:46] that is inversed, a change in the state
+[00:48] of delivery, and we enter our trade
+[00:50] either here or at the pullback of the
+[00:52] change in the state targeting opposing
+[00:55] liquidity.
+[00:57] Here's a fair value gap that we can see
+[00:59] on the 1 hour time frame. Let's mark
+[01:02] that
+[01:04] and then let's plot our OT.
+[01:10] So, as you can see, we have put in a
+[01:12] fair value gap in this OT range here.
+[01:16] Now, I'm going to zoom in to the
+[01:19] fiveinut time frame. Here's our one hour
+[01:23] fair value gap and here is the range
+[01:26] that we plotted.
+[01:31] So let's look at our checklist liquidity
+[01:34] sweep. Well, we've had we're going to
+[01:38] jump down to the one minute now.
+[01:42] Uh we're going to move this over here
+[01:44] just so it's not in the way. We've had a
+[01:47] liquidity sweep. Let's mark that as buy
+[01:50] side liquidity.
+[01:53] What's next? OTE. We are in as we
+[01:56] discussed OTE. This range right here of
+[01:59] the previous dealing range.
+[02:03] Delivering from a higher time frame. As
+[02:05] we noted, we have we are delivering from
+[02:08] a 1 hour time frame. That just means
+[02:10] that there's a higher time frame fair
+[02:12] value gap that we have tapped into. In
+[02:15] this case, we've tapped into it in this
+[02:17] whole area and it seems to be holding.
+[02:19] We have not inverted it. It is being
+[02:21] respected.
+[02:23] SMT.
+[02:25] So, here's our liquidity on NQ. And at
+[02:28] that same time on ES, we also swept
+[02:31] liquidity.
+[02:33] So, no SMT there. And if we're to look
+[02:35] here, we'll see that we have swept
+[02:37] liquidity on NQ, but we have not swept
+[02:41] liquidity
+[02:42] on ES. So this is our SMT
+[02:48] internal liquidity sweep. So in this
+[02:51] case we have in fact had an internal
+[02:53] liquidity sweep
+[02:57] simply means that after we swept the buy
+[02:59] side liquidity here we created new
+[03:03] liquidity and quickly came up and took
+[03:06] that.
+[03:07] So, we've had liquidity sweep, tapped
+[03:10] into a higher time frame fair value gap,
+[03:14] put in an SMT, had an internal liquidity
+[03:17] sweep,
+[03:19] created a fair value gap that we have
+[03:22] now inversed
+[03:29] and then
+[03:34] get a change in the state of delivery.
+[03:37] We can enter our trade here. Set your
+[03:41] stop loss to this high here with your
+[03:45] takerit
+[03:47] down here for a nice 4.43 risk-to-reward
+[03:51] trade. Uh, and let's see if we were to
+[03:54] enter there,
+[03:56] right? With pull back to the change of
+[03:57] the state
+[04:03] and you would hit your first take profit
+[04:06] there. You could take all your profit
+[04:08] off here, leave a runner. Meaning, let's
+[04:10] say we had four contracts. We can sell
+[04:14] three of them here, move our stop to
+[04:17] break even or even a little bit into
+[04:19] profit, and then let one contract run
+[04:22] down to the bottom. That way, you
+[04:24] capture the whole move without having to
+[04:27] risk everything. It even comes down to
+[04:29] there.
+[04:33] And it looks like we're going to get it.
+[04:35] Yep. Boom. And that would have been your
+[04:37] full takerit. Let's look at a bullish
+[04:39] example. We have put in a high, a low, a
+[04:41] higher high. We are coming back down
+[04:43] into our OT range. We've tapped into a
+[04:47] higher time frame fair value gap. We've
+[04:50] put in an SMT. So that means here on ES,
+[04:54] we've swept this liquidity. We've swept
+[04:57] internal liquidity. We've inverted a
+[04:59] fair value gap. We've had a change in
+[05:01] the state of delivery. And we have clear
+[05:04] opposing liquidity on the opposite side.
+[05:07] Here we are on the 1 hour time frame.
+[05:09] We're going to mark this range here. As
+[05:12] you can see, we've come back down into
+[05:13] OTE.
+[05:15] No, we have a little
+[05:18] fair value gap there. Let's see if
+[05:20] there's something better on the 15. Yes,
+[05:23] look at this. Okay, so we have a nice
+[05:25] 15minute fair value gap here that we are
+[05:28] delivering out of. We have I'm going to
+[05:31] delete this for now. We have swept
+[05:35] liquidity here
+[05:38] and we have then had an internal sweep
+[05:39] of liquidity
+[05:41] here. Let's see on ES
+[05:45] we have swept this low here and on NQ
+[05:55] sorry on ES we've swept this low here
+[05:57] and on NQ we have not swept this low
+[05:59] here which means we have an SMT
+[06:03] on the higher time frame. That's
+[06:04] fantastic. So SMT on the higher time
+[06:07] frame you've got your sell side
+[06:09] liquidity that was taken here. You've
+[06:11] had your in internal liquidity that was
+[06:14] taken here. You're delivering out of
+[06:16] this 15inut
+[06:19] higher time frame fair value gap. So
+[06:22] let's zoom in even further to the one
+[06:24] minute and see if we have an entry. All
+[06:28] right, we're a little late on this one.
+[06:31] This is our internal liquidity sweep,
+[06:34] the bigger picture time frame. So this
+[06:36] is a good example of what happens when
+[06:38] you have stacked fair value gaps like
+[06:40] this uh in our entry criteria area. So
+[06:43] you have a fair value gap here. You have
+[06:44] a fair value gap here. So what you will
+[06:47] do is
+[06:49] connect all of the fair value gaps and
+[06:52] make it one big fair value gap because
+[06:54] you're going to need to inverse all of
+[06:56] them. So this would be our fair value
+[06:58] gap. Our change in the state of delivery
+[07:00] would be up here. I mean look at this.
+[07:03] Let's just bounce off that perfectly.
+[07:06] Let's just do this. Uh
+[07:13] so we come down. All right. We enter
+[07:16] here
+[07:19] and we would be targeting this high
+[07:22] here.
+[07:25] Uh going long. So that's our entry. This
+[07:28] is
+[07:30] pretty decent risk. Uh you can
+[07:36] if you wanted to, yeah, it's pretty good
+[07:38] risk-reward. You could also put it below
+[07:41] just right below the fair value gap
+[07:42] because this is still a pretty big drop
+[07:44] here. It's another 28 points. Um and
+[07:47] just make sure you have a tighter risk.
+[07:49] Um and let's see what happens.
+[08:04] Okay, I'd probably be break even at this
+[08:06] point. So, we'd move our break even to
+[08:08] right here.
+[08:34] profits up here.
+[08:36] Oh, wow. Boom. All right. And that hit
+[08:38] our takeprofit for a nice $1,300 run.
+[08:43] Uh,
+[08:45] that's it, guys. This is your model.
+[08:48] [music]

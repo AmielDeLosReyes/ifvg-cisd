@@ -1,0 +1,162 @@
+# 120 point W: Avoiding iFVG pattern trades | videos | https://www.youtube.com/watch?v=xt-GrAQdluU | 323s | uploaded 20260212
+[00:00] What's up everybody? W's are for
+[00:02] Wednesdays. W's are for wins. Beautiful
+[00:05] 120 point play this morning. You can see
+[00:07] these are my entries here. Now, let's go
+[00:09] ahead and take a look at what actually
+[00:12] happened this morning. So, going into
+[00:13] the morning, we had
+[00:15] been coming out of this pretty massive
+[00:17] flush. And after a massive flush, price
+[00:19] doesn't typically just go back up.
+[00:21] Sometimes you'll see a V-shape, but most
+[00:23] of the time, what it has to do is build
+[00:25] liquidity so that we can then
+[00:27] efficiently run the liquidity that was
+[00:29] built.
+[00:31] And so, I don't want to be part of the
+[00:32] build. I want to be a part of the run.
+[00:34] And this morning, we had come right up
+[00:36] to OTE,
+[00:38] built up all that liquidity,
+[00:40] come right up to OTE of this range,
+[00:43] built up all this liquidity. We're
+[00:45] delivering out of a higher time frame
+[00:46] fair value gap,
+[00:48] and had liquidity below us to target.
+[00:50] So, I was bearish on the day.
+[00:53] And when we came to open, we got a
+[00:56] tremendous amount of chop, right? This
+[00:58] is our open here. We were just chopping
+[00:59] around.
+[01:01] And let me actually do this for you,
+[01:04] cuz there's some lessons in here.
+[01:07] So, we came down to this data low, which
+[01:09] is always a huge draw on liquidity. We
+[01:11] ran this data low pretty much straight
+[01:12] at open.
+[01:14] Tapped into this 15-minute, put in an
+[01:15] SMT, had taken London lows,
+[01:18] and rejected. And so, a lot of fair
+[01:21] value gap traders saw this here,
+[01:23] saw close above with this displacement,
+[01:26] and they said, "All right, I'm entering.
+[01:27] I'm targeting London highs." Which if I
+[01:29] turn this on, you can see London highs
+[01:30] are here.
+[01:32] But, there was no change in the state of
+[01:34] delivery. So, this is not a valid plan.
+[01:36] And so, all those fair value gap traders
+[01:38] who entered here got rocked.
+[01:41] And then what happened
+[01:42] is we had a really aggressive
+[01:45] push up
+[01:46] where people saw momentum and thought,
+[01:49] "Okay, this is the move." And they
+[01:50] probably jumped in, but they didn't wait
+[01:52] for a close. And what happened? The
+[01:55] change in the state was rejected, and
+[01:56] they got wrecked.
+[01:58] And so, price continued to do this. We
+[02:01] were between this 15-minute bullish,
+[02:04] this 5-minute bullish, and all of these
+[02:07] bearish fair value gaps. You've got
+[02:08] competing liquidity on both sides of
+[02:10] this market. Buyers and sellers are
+[02:12] being are in a tug-of-war, which is
+[02:14] represented by all this wiki price
+[02:16] action, which you can expect when you
+[02:18] see stacked fair value gaps like this.
+[02:20] So, there's really, even if we had
+[02:21] gotten a change in the state here,
+[02:23] there's really no A+ setup.
+[02:25] So, I wasn't looking to take this.
+[02:28] But,
+[02:29] I was seeing this rejection, this SMT
+[02:31] gets put in with ES at these London
+[02:33] highs, and we have all the liquidity
+[02:35] that I mentioned below us. So, I'm
+[02:37] starting to think, how can we Where
+[02:39] would the bearish play present itself?
+[02:41] And so, I zoomed out.
+[02:43] When I zoomed out, I saw that what
+[02:45] looked very choppy on the 1-minute was
+[02:47] actually a pretty clean setup on the
+[02:49] 15-minute.
+[02:50] Right? Singular We've come up into OTE.
+[02:54] We're delivering out of this higher time
+[02:56] frame fair value gap. We've swept a
+[02:58] bunch of liquidity.
+[03:00] And we've got a singular 15 and a clear
+[03:03] change in the state right here.
+[03:05] We've had a manipulation up.
+[03:07] All these buyers got trapped, and then
+[03:10] we dumped straight through this change
+[03:12] in the state, disrespecting these two
+[03:14] bullish 15-minutes at the exact same
+[03:16] time. So, I entered. Now, I entered
+[03:17] small because this is a pretty large
+[03:20] a bit of risk for me. I don't like
+[03:21] trading taking trades with over 100
+[03:23] points of risk. So, I entered really
+[03:24] small across my accounts with my initial
+[03:27] target at these Asia lows.
+[03:30] And sure enough, price just
+[03:33] rocketed straight down, right? This is
+[03:35] the 15-minute chart. I was managing it
+[03:37] on the 1-minute, but you can see we just
+[03:39] we went straight down. We put in this
+[03:41] order block, we came back up, respected
+[03:43] it, and then I had my actual my TP down
+[03:45] here because like I said, I was on small
+[03:47] contracts, so I'd rather just get as
+[03:49] much of the play as possible. And this
+[03:51] just looks like such an obvious market
+[03:53] maker sell model
+[03:54] when you take a step back, right? This
+[03:56] is all the liquidity Oops.
+[03:58] This is all the liquidity that we have
+[04:00] built up leading into this move, and
+[04:03] then we are going to efficiently run
+[04:05] that liquidity. And that is exactly what
+[04:07] happened. I took my profits here. I had
+[04:10] the team
+[04:11] scale out here for anybody who had more
+[04:13] than small amount of contracts because
+[04:15] Asia low, this is still a great area for
+[04:17] price to potentially reverse if this
+[04:19] wanted to just be
+[04:20] uh
+[04:21] a manipulation like down and then come
+[04:23] on back because price has also been, you
+[04:25] know,
+[04:26] disregard the fact that price has been
+[04:28] kind of sideways for the past while,
+[04:31] right? Look at the 1-hour chart. We are
+[04:32] just accumulating in this area. So,
+[04:36] anything that's
+[04:38] an area where price is likely or could
+[04:40] potentially reverse, I want to play it
+[04:42] safe. I want to take my money off the
+[04:44] table and pay myself, which there's
+[04:45] never anything wrong with doing. So,
+[04:48] this really, really clean trade this
+[04:49] morning.
+[04:50] Change in the state works out
+[04:52] beautifully like it most of the time
+[04:53] does, straight to target. And then as
+[04:56] you can see, we've now hit this target
+[04:57] and we're starting to chop around a
+[04:58] little bit. But, I'm out. The whole team
+[05:00] was done in 30 minutes. Took everything
+[05:02] live.
+[05:04] If you
+[05:05] are struggling with fair value gap
+[05:07] inversions, if you're struggling with
+[05:08] consistency, if you're struggling with
+[05:10] patience or FOMOing to trades, highly
+[05:12] encourage you come check out the free
+[05:13] trial, trade live with me, see what it's
+[05:15] all about, see if it fits your vibe, and
+[05:18] come learn something.
+[05:19] All right. Have a great day, everybody.

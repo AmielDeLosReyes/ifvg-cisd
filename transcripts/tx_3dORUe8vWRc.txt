@@ -1,0 +1,39 @@
+# HOW I SCAN FOR  ORDER FLOW TO FLIP IN UNDER 15 SECONDS | shorts | https://www.youtube.com/watch?v=3dORUe8vWRc | 73s | uploaded 20260713
+[00:00] When price closes through a gap, instead
+[00:01] of bouncing off it, order flow just
+[00:03] flipped and most traders have absolutely
+[00:05] no idea what to do next. On higher time
+[00:08] frames, we want gaps to be respected.
+[00:10] Price taps in and bounces. But on the
+[00:12] lower time frame, we want the opposite.
+[00:15] We want disrespect. [music]
+[00:16] Here's what that looks like. After a
+[00:18] sweep and higher time frame delivery, we
+[00:20] zoom into the 1-minute chart and look
+[00:21] for smaller fair value gaps on the lower
+[00:23] time frame. A three-candle pattern where
+[00:25] the middle candle leaves an imbalance.
+[00:28] Now, normally, if price came back and
+[00:30] bounced off this gap, that would mean
+[00:32] the original direction is still in
+[00:33] control. But instead, price closes
+[00:36] completely through the gap. Not a wick
+[00:38] through it, a full candle close on the
+[00:40] other side. That close through is called
+[00:43] an inversion and it's telling you
+[00:44] [music] something important. The
+[00:45] direction that created the gap is done.
+[00:48] Order flow just flipped. That's your
+[00:50] signal the momentum is shifting. But
+[00:52] it's not your entry yet. There's still
+[00:54] one more thing you need before pulling
+[00:56] the trigger. As you can see, the gap
+[00:58] formed, price closed through it, and the
+[01:00] move in the new direction began. The
+[01:02] inversion called the shift before most
+[01:04] traders even noticed. Want my
+[01:05] confirmation model checklist that breaks
+[01:06] down the full step-by-step process,
+[01:08] including what comes after the
+[01:09] inversion? Comment model and I'll DM it
+[01:11] to you for free.

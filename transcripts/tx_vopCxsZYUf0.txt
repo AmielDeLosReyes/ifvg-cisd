@@ -1,0 +1,422 @@
+# Calling 178 points live + avoiding 100 points of loss | videos | https://www.youtube.com/watch?v=vopCxsZYUf0 | 862s | uploaded 20260819
+[00:00] Today, I called that a massive winning
+[00:01] trade. I also called out an avoidance of
+[00:03] a loss, which is just as important when
+[00:05] you're trading. But, here's the thing. I
+[00:07] didn't take any of these trades. I
+[00:10] showed up to the charts a little out of
+[00:12] it this morning. I didn't sleep great. I
+[00:14] wasn't in a place emotionally where I
+[00:16] wanted to be trading. I didn't feel like
+[00:18] entering a trade I would manage it well,
+[00:20] and so I stayed on the sidelines. And
+[00:22] being connected to where you are
+[00:24] emotionally when you're on the charts is
+[00:26] a very important part of trading. People
+[00:28] go on tilt because they're out of sync
+[00:30] with how they're actually feeling.
+[00:32] They're so desperate to trade that
+[00:34] despite the fact that they're not in a
+[00:36] good condition to do so, they jump into
+[00:39] the charts. Think of it like an athlete
+[00:41] who is ill with pneumonia and they show
+[00:44] up to the big game anyway trying to give
+[00:47] it their all. They're going to pass out.
+[00:48] They're going to overheat. They're going
+[00:50] to let their team down because they
+[00:51] should have just said, "You know what,
+[00:53] coach? I'm going to sit on the bench.
+[00:54] I'm not in top performance. I'm going to
+[00:56] put my ego to the side and do what's
+[00:58] best for the team." It is the same with
+[01:00] trading. Except there's no team, it's
+[01:02] just you versus yourself. And if you're
+[01:04] not honest with yourself about how you
+[01:06] feel going into the day, nobody else
+[01:08] will be. So, I still showed up. I still
+[01:11] did the analysis. I still got wins for
+[01:13] my team, but I did so by sitting on the
+[01:15] sidelines myself. So, that said, being
+[01:17] fully transparent that I didn't actually
+[01:19] take this trade, let's jump into the
+[01:20] charts and see what was happening. So,
+[01:23] this was the big trade that we took, uh
+[01:25] and I'll get into that in a minute, but
+[01:26] I think we got to start with what the
+[01:28] market looked like uh going into the day
+[01:30] because a lot of people took trades that
+[01:33] ended up winning that actually were not
+[01:36] winning trades. And I point that out
+[01:39] because when you start taking trades
+[01:41] that aren't valid, but that pay off,
+[01:44] you build a habit that in that rewards
+[01:47] bad trading, right? You think, "Oh, I'm
+[01:50] untouchable. I can just call the market.
+[01:52] I know where price is going. So, when I
+[01:54] enter, I can go bigger and better." No,
+[01:57] you're going to wreck yourself. Just
+[01:59] because a trade works out doesn't mean
+[02:01] you're supposed to be in that trade. So,
+[02:03] here's open.
+[02:04] We have been pumping, right? We're
+[02:07] coming into open at a 300 point pump.
+[02:10] Above us is London high. Above that are
+[02:14] these fair value gaps that a lot of
+[02:16] which are unmitigated, strong drawn
+[02:18] liquidity, liquidity here, liquidity
+[02:20] here, liquidity at these London highs.
+[02:22] So, there's a lot of reason for price to
+[02:25] go higher. So, when we come down, get
+[02:27] this SMT, a lot of people start going
+[02:30] long. The problem is we haven't actually
+[02:33] gotten a signal to go long. In order for
+[02:36] a confirmation model, we need a sweep,
+[02:39] which we do have, an SMT down here,
+[02:40] which is great, delivery out of a higher
+[02:42] time frame. We're delivering out of a
+[02:43] 30-minute, a 15-minute. You've got a
+[02:45] fair value gap here, and you've got a
+[02:47] change in the state, which would occur
+[02:49] right here. Now, a lot of people see
+[02:51] this huge push up and say, "Oh man, I'm
+[02:53] going to miss the move. It's going to go
+[02:53] straight for these highs, and we're just
+[02:54] going to pump all day cuz we've been
+[02:56] pumping."
+[02:57] But, we haven't gotten confirmation yet,
+[02:59] right? We have not closed above this
+[03:00] fair value gap. We have not gotten a
+[03:02] change in the state. You're assuming you
+[03:03] know what the market is going to do
+[03:05] before it does it, and that is a recipe
+[03:07] for disaster every single time. So, we
+[03:10] wait. We sit on our hands. No trades are
+[03:12] called out, and what happens? Price
+[03:14] drops.
+[03:15] Anyone who went long here got wrecked.
+[03:16] Okay. So, now price is dropping after
+[03:19] this massive pump. So, when you have
+[03:21] that, you know, a U-shaped recovery is
+[03:24] really not my favorite trade because
+[03:26] there's no liquidity here to cleanly
+[03:29] run, right? When we look at a trade, we
+[03:31] always talk about the grandma staircase.
+[03:33] The grandma staircase is the concept
+[03:34] that if your grandma was going to come
+[03:36] with you on a walk, right? You want her
+[03:39] to be able to easily navigate that walk.
+[03:41] A clear path of liquidity to her goal.
+[03:44] She makes it nice and safe, nice joyous
+[03:46] picnic with her grandson. What you don't
+[03:48] want is for for to show up on a hike,
+[03:51] and you say, "Hey, thanks for meeting me
+[03:53] at the top of the mountain. We're going
+[03:54] straight down today."
+[03:56] Right? She's not going to make it. She's
+[03:58] going to break her ankle. She's going to
+[04:00] hurt her wrist. She may die. Can she get
+[04:02] to the bottom safely? Yes, she can. Is
+[04:04] the probability of her getting to this
+[04:07] area here through all of this nice
+[04:09] liquidity much higher than her getting
+[04:11] through this massive fall? 100%. So, I'm
+[04:15] not looking
+[04:17] for the low probability trade, right?
+[04:19] Trading is probability over certainty.
+[04:21] You never know for sure trade is going
+[04:23] to work out, but you want to be taking
+[04:25] entries that have probability in your
+[04:27] favor. And when you have this much
+[04:28] opposing liquidity, probability is not
+[04:30] in your favor. But, the market starts
+[04:33] telling us, "All right, maybe it wants
+[04:34] to be bearish." So, a lot of people see
+[04:37] this pullback here, an inversion of a
+[04:39] singular gap, like we have right here,
+[04:43] right here, and everybody goes short,
+[04:46] stop above the high, targeting London
+[04:48] low. Now, the problem with this trade is
+[04:51] there's there's no real entry point.
+[04:54] You're just saying, "Oh, price is going
+[04:55] lower, so I'm going to look for any
+[04:56] pullback I can get." We have not come to
+[04:58] 50% of the range. We've not come to OTE,
+[05:01] right? When markets are efficient, they
+[05:03] move like this, and their pullbacks tend
+[05:05] to be between 50 and uh 79% of the
+[05:08] range. This is not a pullback, right?
+[05:10] This is not how markets move
+[05:12] efficiently. So, if this is all I'm
+[05:14] seeing, that's not enough of a pullback
+[05:16] for me to enter a trade.
+[05:18] And also, keep in mind, we still don't
+[05:20] have an actual trade playing out. Now,
+[05:22] had we swept liquidity here, had we
+[05:24] tapped into these higher time frames,
+[05:26] had we had an inversion, had we had a
+[05:27] change in state to the downside, and we
+[05:29] maybe missed the entry, and I saw a
+[05:31] pullback like this, I'd say, "You know
+[05:32] what? I'm pretty confident the market is
+[05:34] telling me it wants to go lower. I'm
+[05:36] going to jump in here. It's pretty
+[05:37] decent risk. I'm going to go ahead and
+[05:39] trade it." That's not what happened this
+[05:40] time. This was just a singular movement
+[05:42] of a pullback and a fair value gap
+[05:44] inversion. Keep in mind, we are still
+[05:46] very much inside this higher time
+[05:48] frames. So, what happens? Well, price
+[05:50] does in fact go straight down to these
+[05:52] London lows and even these Asia lows.
+[05:54] So, people were rewarded for entering
+[05:56] this trade when most of the time this
+[05:58] trade is going to fail.
+[06:00] So, you don't want to be the person who
+[06:02] gets rewarded for taking bad trades. It
+[06:04] builds bad habits and leads to blown
+[06:06] accounts. So,
+[06:08] now
+[06:09] we've come down here. All right, we've
+[06:11] swept all this liquidity.
+[06:13] Right? Come down, swept all this sitting
+[06:16] here, and now we are delivering into
+[06:18] these huge swaths of fair value gaps
+[06:20] here and these fair value gaps this
+[06:22] 15-minute and this 30-minute here.
+[06:24] But,
+[06:25] we are catching a falling knife at this
+[06:28] point, right? Price has now gone down
+[06:31] 350 points almost. I'm not going to be
+[06:34] arrogant enough to say, "Oh, we swept
+[06:35] liquidity, so I'm just going to go
+[06:37] long." No, price is hurtling down. I'm
+[06:39] not going to catch that. Again, is it
+[06:42] possible that price it's the same thing
+[06:44] as we had here? Grandma is not surviving
+[06:46] this steep of a climb up, right? She is
+[06:50] She's got She's going to get hoisted. At
+[06:51] best, she's going to be smacking her
+[06:53] head all the way up as you're pulling
+[06:55] her up. You don't want that. So, I can't
+[06:57] take that trade.
+[06:59] What I'm instead looking for
+[07:01] um is a pullback to sweep internal
+[07:04] liquidity. Now, what this means is two
+[07:06] things. One, price could absolutely uh
+[07:10] go on without me. And that's totally
+[07:13] fine, right? I'm not going to try to
+[07:15] catch a falling knife because it could
+[07:16] just shoot straight up, but again, the
+[07:18] probability of it going straight up here
+[07:21] is much lower than the probability of it
+[07:23] trying to build some kind of market
+[07:25] structure and then giving me an
+[07:27] opportunity, or this is just a pullback
+[07:30] to 50% of the range here, which is
+[07:32] exactly what it happens, right? Before
+[07:35] then uh just continuing down lower. So,
+[07:37] now this is the next trade a lot of
+[07:39] people would have taken.
+[07:40] I'm jumping to 30-second. I'm still not
+[07:42] seeing anything here. Again, there's no
+[07:44] bigger picture narrative to say the
+[07:46] market definitely wants to go lower.
+[07:47] It's just been flushing. Um but if you
+[07:50] wanted to, you know, short this
+[07:52] rejection with your stop above this
+[07:53] high, I guess you could take that trade
+[07:55] to these internal lows because that now
+[07:57] aligns with the narrative I'm looking
+[07:59] for, which is an internal sweep of
+[08:00] liquidity. So here we go. Boom. Now I
+[08:03] have my internal sweep. So now I've been
+[08:05] patient. Everyone who went long here
+[08:07] trying to catch that falling knife got
+[08:08] wrecked, right? This was nearly a Let's
+[08:11] see. What was your I mean, what is your
+[08:13] your stop even for this? Oh, you know
+[08:15] what? There was a 30-second inversion
+[08:16] here, which I think a lot of people
+[08:18] Yeah, it was this inversion right here.
+[08:20] So you'd enter like right around here if
+[08:22] you were just taking the inversion. 74
+[08:24] points. Um targeting up there.
+[08:27] Obviously, it did not work because you
+[08:28] weren't patient. Um and
+[08:31] a note on lower time frames. If you're
+[08:32] jumping to the lower time frame,
+[08:34] like you really And when I say lower, I
+[08:36] mean 30-second. The only time you should
+[08:38] use a 30-second time frame is if things
+[08:40] are so so so A+++ that you really want
+[08:44] that sniper entry. When you're catching
+[08:46] a falling knife, you're just looking for
+[08:49] a reason to get inside the trade. So you
+[08:50] do not take a 30-second entry on a
+[08:52] falling knife like this.
+[08:54] Now, get the internal sweep, leave
+[08:57] behind a fair value gap right here.
+[09:01] Boop.
+[09:02] Right?
+[09:03] And if we are now going to get a change
+[09:05] in the state, it's going to happen right
+[09:06] here. We're delivering out of all these
+[09:07] higher time frames. Do do doot. Okay. So
+[09:10] now your change in the state is
+[09:11] confirmed. The problem with this
+[09:13] at this point, when you get the entry
+[09:15] here,
+[09:16] is you still have this 4-minute
+[09:18] uh
+[09:19] fair value gap to the downside, right?
+[09:21] You don't have a clean singular gap.
+[09:23] So this 4-minute, as you can see, is
+[09:26] actually holding up pretty good at this
+[09:27] point. So and the market is incredibly
+[09:29] bearish still. So I'm not going to just
+[09:31] jump into a trade simply because my
+[09:32] model shows up when the market is this
+[09:34] bearish. I really need things to align
+[09:36] in a way that says, "All right,
+[09:38] we're giving you the go-ahead." So, what
+[09:40] I'm looking for now is for that 4-minute
+[09:43] to get closed above
+[09:44] um for a potential entry. And that
+[09:46] happens right around here, around the
+[09:48] same time this order block gets put in.
+[09:51] So, now I've got a change in the state
+[09:54] right here that has come down, retested
+[09:56] the inversion, kept this low protected,
+[09:58] right? This was the a sweep inside these
+[10:00] higher time frames after we got uh an
+[10:03] external sweep, and then an inversion,
+[10:04] and a change in the state, came down,
+[10:06] didn't knock out this play,
+[10:08] uh and start moving starts moving up,
+[10:11] closes above this series of down close
+[10:12] candles here,
+[10:14] closes back above the 60, that's the
+[10:16] entry that I call out to the group,
+[10:18] right? Now I have I've been patient,
+[10:21] I've got the confluences. Now, like I
+[10:23] said, I was just not feeling great this
+[10:24] morning. For whatever reason, I'm like
+[10:26] not was not in the mood to trade, um and
+[10:29] I know myself well enough to know that I
+[10:30] should just stay away. And that's what I
+[10:32] did. So, we had a couple of
+[10:34] opportunities to
+[10:36] uh target here for a full TP. London
+[10:39] high being like the massive massive
+[10:40] target, which I'm very rarely going to
+[10:42] hold 300 points. You just don't need
+[10:44] that much.
+[10:45] Um your base hits are the way you get
+[10:48] consistently profitable in the long term
+[10:49] here. Keep a runner, sure, but
+[10:52] you want most of your position out uh
+[10:54] way before then. So, couple areas uh to
+[10:57] note. So, this is the break even area
+[10:58] right here, right? Once we take these
+[11:00] highs, this is basically going to be
+[11:02] break even cuz you're also tapping this
+[11:04] 15-minute here.
+[11:06] Um so, if price wants to come back
+[11:08] around, this is a good area for that
+[11:10] price to do that. So, once we sweep
+[11:12] this, I say everybody go break even.
+[11:14] That's your break even point. And you
+[11:17] have two take profits before London
+[11:19] high. The first is this order block
+[11:20] right here
+[11:21] that showed up on the way down, right?
+[11:24] This ended up being an order block once
+[11:25] you had this massive displacement here.
+[11:27] This little pullback and that was an
+[11:29] order block.
+[11:30] And oftentimes, let's also look at where
+[11:32] we are in this massive range, right?
+[11:35] This order block is sitting right in an
+[11:38] area where price is likely to reject
+[11:41] likely to reject. And what happens? We
+[11:42] end up just kind of sitting going
+[11:44] sideways for a little while right here,
+[11:45] right? So, this is TP1. TP2 is a
+[11:49] standard deviation of 2 to 2.5, which is
+[11:52] right here. That lines up perfectly.
+[11:54] Standard deviation is of course the low
+[11:57] um that was put in by the sweep and the
+[12:00] high of the candle that uh caused the
+[12:03] change in the state. So, this is your
+[12:05] the area you measure. 2 to 2.5 is your
+[12:07] standard deviation likely target. Uh and
+[12:10] as you can see, price
+[12:11] uh does in fact go
+[12:15] sits basically just chills around here
+[12:17] for a while. I told everyone to get out
+[12:18] right here. I like when you have wicks
+[12:20] like this, I I'm happy to just get out
+[12:22] at like right around here cuz this is
+[12:24] what you often see. And I don't want to
+[12:25] risk what is now a 176-point move for
+[12:31] four extra points, right? It's just
+[12:32] greedy. I I don't need it. Now, if we
+[12:35] fast forward out of curiosity, what ends
+[12:37] up happening?
+[12:39] It looks like this play is absolutely
+[12:40] continuing to go on. Ahem. Uh
+[12:43] [clears throat] it did hit TP like TP2,
+[12:45] and now it's uh pulling back. We'll see
+[12:46] if it gets to uh London highs. But, this
+[12:49] would have been one runner tops at this
+[12:50] point. Once this gets hit, uh
+[12:53] most of your trades should be out. So,
+[12:54] that was everything we did today in the
+[12:55] live session. Uh come join us. Say
+[12:57] hello. Really important that when you're
+[12:59] trading, you acknowledge that
+[13:02] this is a win. Not taking this trade
+[13:04] here
+[13:05] long is a win.
+[13:07] You have to reframe what you look at as
+[13:09] a profitable day or a winning day,
+[13:12] right? Like, just because you don't take
+[13:15] a trade,
+[13:16] if you avoid bad trades, if you avoided
+[13:18] this bad trade, if you avoided this bad
+[13:19] trade, even though they played out,
+[13:21] these are wins. These you did the work.
+[13:23] You showed up. You did the analysis.
+[13:25] It's hard to do that. It's hard to be
+[13:27] patient, right? But if you followed your
+[13:29] rules, truly didn't see an entry in
+[13:31] here, didn't FOMO into something,
+[13:32] avoided this uh this fakeout, patiently
+[13:36] waited for the internal sweep, and got
+[13:38] this setup. This is an hour into the
+[13:40] day. I mean, we talk about patience,
+[13:41] this is just an hour. Can you really not
+[13:43] sit on your hands for an hour for an
+[13:45] actual A setup, right? Um it's not we we
+[13:50] talk about patience because it's like
+[13:51] everyone has to press the button every
+[13:52] 30 seconds for like oh my god, we got to
+[13:53] go.
+[13:54] Um
+[13:55] but no, like take a step back. It's
+[13:57] actually the kind of patience you need
+[13:59] in the market, it's not even that much
+[14:00] patience, right? It's this one leg. We
+[14:02] just had to wait for this leg to finish
+[14:04] for a sweep, an internal sweep, this guy
+[14:06] here and a change in the state, and then
+[14:07] boom, you get your A setup. All for
+[14:09] being a little patient. Not being
+[14:11] trigger-happy for an hour. We this was
+[14:12] the a full confirmation model. If you're
+[14:14] unfamiliar with the confirmation model,
+[14:15] you can check out this link here. I go
+[14:16] over the whole thing. And if you want to
+[14:18] join us, we go live every day, Monday to
+[14:20] Friday, you can click the link below.

@@ -1,0 +1,215 @@
+# Knowing when to take TP 1 | videos | https://www.youtube.com/watch?v=wFqkOB52mdY | 429s | uploaded 20260326
+[00:00] Good morning everybody. Happy Thursday.
+[00:02] Going to show you today's trade, why we
+[00:04] took it, why we went
+[00:07] took profit a bit early, and why that
+[00:10] worked out in our favor. So, first off,
+[00:11] you can see here, this was our entry.
+[00:13] This was the exit. This was a runner
+[00:15] that I had left that was stopped out at
+[00:17] break even. And then actually see after
+[00:19] we exited, price pretty much chopped and
+[00:20] then absolutely flushed. So, we made the
+[00:22] right call by exiting when we did. Let's
+[00:25] go over exactly what happened. So,
+[00:28] coming back to open,
+[00:31] let's go to 8:30.
+[00:36] I'm in Chicago, so 8:30 is open for me.
+[00:39] All right. So, coming to open,
+[00:40] everything really was happening on the
+[00:41] 15-minute and 5-minute chart. That's
+[00:43] what we were looking at.
+[00:44] So, we're in OTE of this much larger
+[00:47] range that we've been hanging out in for
+[00:49] a while.
+[00:50] Right?
+[00:52] We had this huge news pump earlier this
+[00:53] week, and now we're coming back down.
+[00:58] In OTE, delivering out of these higher
+[01:00] time frame fair value gaps that are
+[01:01] being displayed by my indicator, SMT at
+[01:03] these lows that's being displayed by my
+[01:05] indicator, and then you had this sweep
+[01:07] uh of sell-side liquidity here. So, we
+[01:09] have a narrative from a larger time
+[01:10] frame to look for an entry to go higher.
+[01:14] Now,
+[01:15] on the 15-minute,
+[01:17] we had had a change in the state that
+[01:19] got put in right here.
+[01:21] And on the 5-minute,
+[01:23] we also had a change in the state that
+[01:24] had gotten put in right there. However,
+[01:26] this was open, right? You don't want to
+[01:29] take a trade just because it shows up,
+[01:30] right? You've got your fair value gap
+[01:32] inversion here. You've come down, you've
+[01:34] swept [clears throat]
+[01:35] external liquidity, you've swept
+[01:36] internal liquidity. You even have SMT
+[01:38] down here. But, you got to consider the
+[01:41] time of day, right? Just because your
+[01:43] setup is there, doesn't mean you can
+[01:44] ignore the larger context. And in this
+[01:46] case, the larger context is New York
+[01:49] open. So, we know there's going to be
+[01:50] volatility, so we don't want to just
+[01:52] jump into a trade blindly. We want to be
+[01:53] patient and wait and see what happens.
+[01:56] And what happens, sure enough, is
+[01:59] that player would have gotten killed,
+[02:00] right?
+[02:01] >> [clears throat]
+[02:02] >> We take out London lows, which was a
+[02:03] nice obvious draw of liquidity anyway.
+[02:05] You had a lot of liquidity down here.
+[02:07] This seemed like an easy run down to
+[02:09] these London lows, and that's exactly
+[02:10] what happened. So, we stayed out, we sat
+[02:12] on our hands, and we waited. And as we
+[02:15] waited, we get this 5-minute fair value
+[02:16] gap that gets put in.
+[02:18] We get a new change in the state formed
+[02:21] when we come down take these London
+[02:22] lows. This is now the series of candles
+[02:24] that put in a change in the state of
+[02:25] delivery, and we get a really nice close
+[02:28] right above it in one fell swoop. So, we
+[02:32] enter the trade,
+[02:33] we target London highs,
+[02:36] but we also, right,
+[02:38] target
+[02:40] this 30-minute gap here because you've
+[02:43] got all this liquidity sitting here, and
+[02:45] you have this huge swath of opposing
+[02:47] liquidity where the run,
+[02:49] the obvious run, looks like we could
+[02:52] come up to here, right? Like this is
+[02:53] some nice liquidity that's been built up
+[02:55] along here. This seems like an easy run.
+[02:58] Getting from here up to here is much
+[03:01] harder, right? Look at this huge drop we
+[03:03] have here.
+[03:04] So, we have to get through all this
+[03:05] opposing liquidity without much clean
+[03:08] market structure to help us get up to
+[03:09] these London highs. So, when we come up
+[03:12] to this 30-minute,
+[03:14] I say that's TP1.
+[03:16] And we should also just jump down to the
+[03:18] 1-minute cuz there was also this really
+[03:20] nice confluence on the 1-minute here
+[03:21] where you had the change in the state
+[03:23] happening on the 5-minute, you had this
+[03:24] huge 1-minute fair value gap that was
+[03:26] getting inverted at the same time. So,
+[03:29] this was your change in the state on the
+[03:30] 1-minute, last series of candles running
+[03:32] into the sweep because you didn't have
+[03:33] 1-minute inversion through any of this.
+[03:35] So, this becomes your change in the
+[03:36] state. And even on the 15-minute, if you
+[03:38] look, this one massive candle that forms
+[03:41] technically is the change in the state
+[03:42] cuz this candle is now the candle that
+[03:44] ran liquidity and gets closed above. So,
+[03:48] pretty cool, 15-minute, 5-minute, and
+[03:50] 1-minute all converging together to tell
+[03:52] us that the market wants to go higher.
+[03:54] The more you can align higher time frame
+[03:57] bias with lower time frame entries, the
+[03:59] more probable it is that your trade is
+[04:01] going to play out.
+[04:02] So,
+[04:04] we see uh
+[04:05] the trade. We actually waited for a
+[04:07] pullback to the change in the state. We
+[04:08] didn't enter right here, we entered
+[04:10] right here. Gave us better RR.
+[04:14] And
+[04:17] then we watched.
+[04:19] Now, price came up.
+[04:21] I exited here with TP1
+[04:23] because again, if price wants to go
+[04:26] down, if this in fact is just a false
+[04:28] move, and that this can be considered
+[04:30] accumulation, this ends up being
+[04:32] manipulation, and we distribute lower,
+[04:34] this is where that's going to happen.
+[04:36] We've run this liquidity, we're tapping
+[04:38] into these higher time frames. If the
+[04:40] market wants to turn around, this is
+[04:42] where the market wants to turn around.
+[04:43] Doesn't matter that my RR isn't perfect
+[04:46] at this point. No.
+[04:48] Technically, it's it's a 0.6 RR to take
+[04:50] profit one.
+[04:51] Uh
+[04:52] but
+[04:54] it doesn't matter because we can't
+[04:56] ignore the market narrative just to
+[04:58] blindly hold on to RR in this scenario.
+[05:01] Right? If the market is going to come up
+[05:03] to here, and it wants to go higher, it
+[05:05] should do that. It shouldn't have a
+[05:06] problem come down, go back up again.
+[05:09] Uh and it could, right? It could
+[05:11] absolutely come down, test the change in
+[05:12] the state, and go higher, which, if you
+[05:14] see, we actually had a pretty nice push
+[05:16] down here, test the change in the state,
+[05:18] and sure enough, come higher.
+[05:21] But, we put in another 4-hour here, and
+[05:22] we still got all this bearish order
+[05:24] flow. And so, what ends up happening
+[05:27] is
+[05:28] it ends up
+[05:30] taking down,
+[05:31] right? So, our initial play, and this
+[05:35] would have So, this would have failed.
+[05:36] Our initial play was great. The RR was
+[05:38] solid. This was a complete valid entry.
+[05:40] However, once we hit this area, we knew
+[05:43] that there was resistance waiting for
+[05:44] us. So, why would we blindly hold
+[05:46] through an area that we know is going to
+[05:49] cause trouble? And if it doesn't cause
+[05:51] trouble, we're going to we're going to
+[05:52] likely hit TP. But, if it does, it's
+[05:54] likely to stop us out anyway, so it's
+[05:56] better to go break even or take profit
+[05:59] and align your trade with the narrative
+[06:01] of the market. The fair value gap
+[06:03] indicator tells me that there's
+[06:05] resistance here. It tells me order flow
+[06:07] in the opposite direction that we want
+[06:09] the market to go is sitting here waiting
+[06:11] for us. So, why would I stubbornly hold
+[06:14] through this area? It doesn't make any
+[06:16] sense. So,
+[06:17] TP1 was there. I moved my stops to break
+[06:19] even, and
+[06:21] took half profits off here, and then
+[06:22] half got stopped out uh at break even.
+[06:25] But, that's why you have to listen to
+[06:28] the market, what it's telling you, read
+[06:30] price action in real time, and not just
+[06:32] blindly enter trades because your model
+[06:35] shows up, right? I mean, look, our model
+[06:37] showed up here as well.
+[06:38] And we didn't enter it because we had
+[06:40] that New York open, and sure enough, New
+[06:41] York open knocked it out. When we got it
+[06:43] here, we had a clear run higher, so we
+[06:45] entered, right? There was less reason to
+[06:47] not enter, so we jumped in on the trade.
+[06:50] Worked out perfectly, and then
+[06:52] we could have taken full take profit
+[06:53] here. I know some people in the group
+[06:54] actually did cuz it's still a really
+[06:55] nice 60-point run.
+[06:58] Nothing to rub your nose at. And that
+[07:01] was our Thursday morning, guys. Come say
+[07:03] hello. Join the live trading below. I
+[07:07] hope you have a great rest of your
+[07:08] Thursday.
