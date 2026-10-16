@@ -1,0 +1,162 @@
+{
+ "doc": "10f57aa8-312b-4cbd-9373-150b0942d6c9",
+ "url": "https://claude.ai/code/artifact/10f57aa8-312b-4cbd-9373-150b0942d6c9",
+ "main": {
+  "file": "2ad53c91-06c7",
+  "body": "ebe308bd-5413",
+  "session": "mpje5a2t2rz",
+  "pending": {
+   "s1": "mpje5a2t2rz.298",
+   "s2": "mpje5a2t2rz.299",
+   "s3": "mpje5a2t2rz.300",
+   "s4": "mpje5a2t2rz.301",
+   "s5": "mpje5a2t2rz.302"
+  }
+ },
+ "tabs": {
+  "p1": {
+   "file": "e093812b-9624",
+   "body": "3b4814cb-85b7"
+  },
+  "p2": {
+   "file": "15cebf47-d2c2",
+   "body": "958c6c32-ed73"
+  },
+  "ch01": {
+   "file": "64acc5e9-e6a1",
+   "body": "4ed18073-25a9",
+   "pending": "mpje5a2t2rz.61"
+  },
+  "ch02": {
+   "file": "dfe582a7-4d36",
+   "body": "783b6d4c-6a71",
+   "pending": "mpje5a2t2rz.46"
+  },
+  "ch03": {
+   "file": "0b7e590f-7a64",
+   "body": "51ff2089-991d",
+   "pending": "mpje5a2t2rz.56"
+  },
+  "ch04": {
+   "file": "45adece9-5b5f",
+   "body": "b6141dda-17db",
+   "pending": "mpje5a2t2rz.54"
+  },
+  "ch05": {
+   "file": "354e5af3-6274",
+   "body": "993ac696-2666",
+   "pending": "mpje5a2t2rz.44"
+  },
+  "ch06": {
+   "file": "5aba362c-c256",
+   "body": "95f5bf8e-e0af",
+   "pending": "mpje5a2t2rz.72"
+  },
+  "ch07": {
+   "file": "deb69a18-6abe",
+   "body": "7e5e798e-f6ca",
+   "pending": "mpje5a2t2rz.69"
+  },
+  "ch08": {
+   "file": "5886d0b8-d36d",
+   "body": "e560aa5d-a779",
+   "pending": "mpje5a2t2rz.50"
+  },
+  "ch09": {
+   "file": "3ab26a45-ddeb",
+   "body": "c2df8cf0-6cae",
+   "pending": "mpje5a2t2rz.62"
+  },
+  "ch10": {
+   "file": "68a13f10-a104",
+   "body": "5bdd36aa-ad10",
+   "pending": "mpje5a2t2rz.32"
+  },
+  "ch11": {
+   "file": "7580c180-185a",
+   "body": "ff4157f0-b5a0",
+   "pending": "mpje5a2t2rz.83"
+  },
+  "p3": {
+   "file": "b6280faf-960a",
+   "body": "3ee9911e-aa27"
+  },
+  "p4": {
+   "file": "ef19a23e-9b7e",
+   "body": "450db663-44c3"
+  },
+  "p5": {
+   "file": "e728a4a0-4c87",
+   "body": "b035b392-fbfc"
+  },
+  "p6": {
+   "file": "c53d27fb-8526",
+   "body": "afb3cc79-4f25"
+  },
+  "ch12": {
+   "file": "515dcbd5-0931",
+   "body": "27f480e3-e169",
+   "pending": "mpje5a2t2rz.55"
+  },
+  "ch13": {
+   "file": "5744d319-bc6e",
+   "body": "550edc90-5142",
+   "pending": "mpje5a2t2rz.71"
+  },
+  "ch14": {
+   "file": "ed0439bc-5e74",
+   "body": "d1a9ad48-7002",
+   "pending": "mpje5a2t2rz.47"
+  },
+  "ch15": {
+   "file": "151328e2-0c71",
+   "body": "0191d81b-61a2",
+   "pending": "mpje5a2t2rz.69"
+  },
+  "ch16": {
+   "file": "2152c3dc-d10b",
+   "body": "c707af8f-0f78",
+   "pending": "mpje5a2t2rz.81"
+  },
+  "ch17": {
+   "file": "d637e37a-d492",
+   "body": "7a40cc7c-cbef",
+   "pending": "mpje5a2t2rz.47"
+  },
+  "ch18": {
+   "file": "b3cbc17b-a173",
+   "body": "50dcd0cf-01b8",
+   "pending": "mpje5a2t2rz.75"
+  },
+  "ch19": {
+   "file": "3bfe6694-e048",
+   "body": "3a5308db-02bb",
+   "pending": "mpje5a2t2rz.59"
+  },
+  "ch20": {
+   "file": "b0fd21a6-e9c6",
+   "body": "70d85ea6-ca8e",
+   "pending": "mpje5a2t2rz.42"
+  },
+  "ch21": {
+   "file": "9aca6f7e-a391",
+   "body": "00b13862-334c",
+   "pending": "mpje5a2t2rz.72"
+  },
+  "ch22": {
+   "file": "d31e4ee5-84c1",
+   "body": "cc84d757-b7a6",
+   "pending": "mpje5a2t2rz.49"
+  },
+  "gl": {
+   "file": "c6e12915-08fe",
+   "body": "ebac8596-8ead",
+   "pending": "mpje5a2t2rz.9"
+  },
+  "cs": {
+   "file": "001a5c28-e83a",
+   "body": "6adbe149-8645",
+   "pending": "mpje5a2t2rz.12"
+  }
+ }
+}
