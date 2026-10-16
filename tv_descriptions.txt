@@ -1,0 +1,126 @@
+============================== page_5bwBHx1m.html | dates: ['2026-03-23T22:53:14.063129+00:00', '2026-07-03T13:40:14.314556+00:00', '2026-07-03T13:23:32.815916+00:00', '2026-07-03T13:40:14.314556+00:00']
+[b]Data Highs & Lows + News: Creative Trader[/b]
+
+[b]What It Is[/b]
+
+High-impact news events create chaos on the chart. Volatility spikes, both sides get swept, and the levels that form at those moments carry different weight than a random swing high or low. This indicator flags those events and tracks those levels for you.
+
+[b]How It Works[/b]
+
+The indicator does two things. First, it maps economic events directly onto your chart with markers at the exact timestamp of each release. You can see when FOMC, CPI, NFP, and other events hit without checking a separate calendar.
+
+Second, it detects the swing highs and lows that form at the exact moment of a news release and plots them as levels on your chart.
+
+[i]DATA.H[/i]: a swing high that formed during a news event.
+[i]DATA.L[/i]: a swing low that formed during a news event.
+
+These aren't random levels. They were created by institutional reaction to economic data. They behave differently and they matter more.
+
+Levels remain on your chart until price touches them. You can set them to auto-delete after that, or keep them as historical reference.
+
+[b]Key Features[/b]
+
+✅ Auto-detects high-impact news events directly on chart
+✅ Filter by impact level (high, medium, low, holidays)
+✅ Filter by currency (USD, EUR, GBP, JPY, or auto-match to your chart)
+✅ DATA.H and DATA.L plot automatically at news-triggered swing points
+✅ Levels stay until price mitigates them, with optional auto-delete
+✅ Real-time dashboard showing next upcoming event with countdown timer
+✅ Configurable chart history (today or this week)
+✅ Manual time filter to detect fractals at a fixed daily time even without a news event (e.g., 9:30 market open)
+✅ Full visual customization for colors, label sizes, line styles, and transparency
+
+[b]How to Use[/b]
+
+Enable the filter, and news events appear on your chart automatically. DATA.H and DATA.L levels plot on their own. Use these levels as liquidity targets. Avoid entering during active releases. After the news clears, look for setups around the newly formed data levels. The dashboard countdown tells you exactly when the next event hits so you're never caught off guard.
+============================== page_MTRDiupu.html | dates: ['2026-03-23T23:10:04.093351+00:00']
+[b]SMT Creative Trader[/b]
+
+[b]What It Is[/b]
+
+Most of the time, correlated instruments like NQ and ES move together. When one makes a new high, the other usually does too. But sometimes they disagree. One sweeps a level and the other doesn't follow. That disagreement is called SMT divergence, and it's one of the most reliable signals that a move is weak and a reversal is likely.
+
+[b]How It Works[/b]
+
+The indicator watches both instruments and compares their swing highs and swing lows. When one breaks a level and the other doesn't confirm, it draws a line connecting the divergence so you can see it instantly.
+
+[i]Bullish divergence[/i]: one instrument makes a lower low while the other holds a higher low. Selling pressure is weakening.
+
+[i]Bearish divergence:[/i] one instrument makes a higher high while the other makes a lower high. Buying pressure is weakening.
+
+[b]What Makes This Different[/b]
+
+Most SMT indicators update after the candle closes. By then, the move already happened. This one updates in real time as price moves. You see the divergence forming while the candle is still printing.
+
+[b]Key Features[/b]
+
+✅ Real-time detection, not after candle close
+✅ Works with any correlated pair (NQ/ES, Gold/Silver, BTC/ETH)
+✅ Visual lines connect the pivot points for instant identification
+✅ Oldest signals auto-remove to keep the chart clean
+✅ Customizable line styles and colors for bullish and bearish signals
+✅ Labels with optional symbol display (e.g., "SMT w/ ES")
+✅ Built-in alerts for both bullish and bearish divergences
+
+[b]How to Use[/b]
+
+Set your correlated asset (e.g., ES for NQ traders). The indicator detects and plots divergences automatically. Use it as a filter to confirm or reject setups. When the instruments agree, the move is more likely real. When they disagree, be cautious.
+============================== page_SejvgBsN.html | dates: ['2026-03-23T23:19:04.837014+00:00']
+[b]FVGs & Session Levels: Creative Trader[/b]
+
+[b]What It Is[/b]
+
+A multi-timeframe Fair Value Gap detector combined with auto-plotted session levels. FVGs are gaps left behind when price moves too fast for all orders to fill. Price tends to come back to these zones, making them some of the most reliable levels on your chart.
+
+[b]FVGs[/b]
+
+Track gaps across up to 10 timeframes simultaneously, each color-coded so you never confuse them. Gaps appear as boxes on your chart and automatically disappear when filled to keep things clean.
+
+[b]What makes this different:[/b]
+
+--Inversions only mark when price closes completely through the gap, not just at the boundary. Most indicators get this wrong. A close at the boundary is not an inversion.
+--CE lines mark the 50% midpoint of each gap for tighter entries.
+--Memory-optimized to track 100 gaps per timeframe without lag. Built-in filtering to hide lower timeframe noise when needed.
+
+[b]Session Levels[/b]
+
+Every trading session leaves behind a high and a low. These are where stops cluster and liquidity sits. This indicator auto-plots all of them every day: PDH/PDL, Asia, London, NY
+
+No manual marking. No timezone math. Lines extend until liquidity is swept, then labels snap to the sweep point. Smart label stacking when levels overlap (e.g., "PDH / AH"). Levels reset daily so your chart stays clean.
+
+[b]Key Features[/b]
+
+✅ 10 independent timeframes for FVG tracking (seconds to months)
+✅ Auto-mitigation detection: knows when gaps are filled
+✅ Custom colors per timeframe
+✅ CE lines for precision entries
+✅ Auto-plotted session levels with sweep detection
+✅ PDH/PDL, Asia, London, NY, Midnight Open, 8:30 Open
+✅ Smart label stacking
+✅ Daily reset for clean charts
+✅ Master toggles for FVGs and session levels
+✅ Flexible display options: show/hide any timeframe or session instantly
+============================== page_k6ocl5Gg.html | dates: ['2026-01-16T18:06:53.105733+00:00', '2026-01-23T03:25:44.028232+00:00', '2026-01-16T19:08:24.811071+00:00', '2026-01-19T20:53:10.927929+00:00']
+[b]FVG Indicator - Overview
+[/b]
+[b]What It Is
+[/b]
+A multi-timeframe Fair Value Gap detector for Smart Money Concepts trading. Fair Value Gaps are price imbalances where institutional traders moved so quickly they left unfilled orders. These zones act as magnets, with price often returning to fill them, creating high-probability trade setups.
+
+[b]Key Features[/b]
+
+Track up to 10 timeframes simultaneously (1-min to monthly) with each timeframe color-coded for easy identification. FVGs appear as boxes on your chart with customizable labels, and automatically disappear when filled to keep your chart clean. Consequent Encroachment (CE) lines mark the 50% midpoint of each FVG for precision entries with tighter stops.
+
+[b]How to Use
+[/b]
+Set your preferred timeframes (e.g., 15M, 1H, 4H for day trading), customize colors per timeframe, and enable "Delete boxes after fill" for a clean workspace. Enter trades when price returns to higher timeframe FVGs, using the CE line for tighter entries. Memory-optimized to track 100 FVGs per timeframe without lag, with built-in filtering to hide lower timeframe noise when needed.
+
+Key Features
+
+✅ 10 Independent Timeframes - Track FVGs from 1-minute to monthly charts
+✅ Auto-Mitigation Detection - Knows when FVGs are filled
+✅ Custom Colors Per Timeframe - Never confuse different timeframes
+✅ Consequent Encroachment (CE) Lines - 50% midpoint of each FVG
+✅ Flexible Display Options - Show/hide any timeframe instantly
+✅ Box Length Control - Extend FVG boxes as far as needed
+✅ Label Customization - Size, position, and color control
